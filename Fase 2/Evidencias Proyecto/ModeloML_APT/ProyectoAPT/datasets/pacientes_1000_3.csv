@@ -1,0 +1,1001 @@
+id_paciente,nombre,rut,edad,sexo,fecha_registro,id_medico,FamiliarPrimerGradoCC,FamiliarSegundoGradoCC,DiagnosticoPrevioCancer,Ejercicio,Alcohol,Mamografia,Menstruacion,PrimerHijo,Riesgo
+2240,Preston,233558743,149,M,9/10/2025,1,true,true,true,>4 horas,Ocasional,true,Primer hijo <30,No hijos,Alto
+2229,Brittani,340572805,65,F,9/10/2025,1,true,true,false,<3 horas,Ocasional,false,Primer hijo <30,Primer hijo <30,Alto
+2229,Zachariah,768006136,48,M,9/10/2025,1,true,false,true,Ninguna,Nunca,false,Primer hijo <30,Primer hijo >=30,Bajo
+2607,Sydel,863307535,103,F,9/10/2025,1,true,true,false,Ninguna,Diario,false,Primer hijo <30,Primer hijo <30,Alto
+2490,Ludovico,513472563,83,M,9/10/2025,1,,true,false,Ninguna,Ocasional,true,No hijos,No hijos,Alto
+2907,Gregor,545085966,81,M,9/10/2025,1,true,false,true,<3 horas,Nunca,true,Primer hijo >=30,No hijos,Alto
+2613,Nelle,310852090,56,F,9/10/2025,1,true,true,true,Ninguna,Nunca,true,Primer hijo <30,Primer hijo <30,Moderado
+2816,Imogen,638693442,74,F,9/10/2025,1,true,true,true,<3 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Bajo
+2688,Dene,193529340,114,M,9/10/2025,1,,false,true,<3 horas,Ocasional,false,Primer hijo <30,No hijos,Alto
+2545,Jard,383500131,12,M,9/10/2025,1,false,false,false,>4 horas,Nunca,true,Primer hijo >=30,No hijos,Alto
+2278,Stephani,487562999,25,F,9/10/2025,1,true,true,true,>4 horas,Nunca,false,No hijos,Primer hijo <30,Bajo
+2508,Nerissa,235668109,61,F,9/10/2025,1,false,true,true,<3 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Moderado
+2598,Lisbeth,671856021,33,F,9/10/2025,1,true,true,false,<3 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2559,Abel,925691437,121,M,9/10/2025,1,false,true,false,Ninguna,Diario,false,Primer hijo <30,No hijos,Alto
+2274,Ronny,351839125,100,M,9/10/2025,1,false,false,true,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Bajo
+2026,Kerry,440001992,4,F,9/10/2025,1,false,true,true,>4 horas,Frecuente,false,Primer hijo >=30,No hijos,Moderado
+2572,Farrell,101643044,89,M,9/10/2025,1,false,true,true,3-4 horas,Ocasional,false,Primer hijo <30,Primer hijo <30,Alto
+2023,Lyon,285087749,2,M,9/10/2025,1,true,false,false,3-4 horas,Frecuente,false,No hijos,Primer hijo >=30,Bajo
+2788,Sayre,201192167,124,M,9/10/2025,1,false,true,true,Ninguna,Nunca,true,No hijos,Primer hijo >=30,Bajo
+2544,Viki,502951694,143,F,9/10/2025,1,true,true,false,Ninguna,Nunca,true,Primer hijo <30,No hijos,Bajo
+2985,Albrecht,449041620,120,M,9/10/2025,1,false,false,false,<3 horas,Ocasional,true,,No hijos,Alto
+2356,Gabi,573251521,145,M,9/10/2025,1,true,false,true,3-4 horas,Nunca,false,No hijos,Primer hijo >=30,Bajo
+2405,Lonnie,855422561,111,F,9/10/2025,1,true,true,true,3-4 horas,Frecuente,false,No hijos,Primer hijo <30,Alto
+2075,Donovan,863022046,134,M,9/10/2025,1,true,false,true,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2469,Jessy,530982501,33,F,9/10/2025,1,true,true,true,<3 horas,Diario,true,Primer hijo >=30,No hijos,Moderado
+2538,Betteanne,333246634,,F,9/10/2025,1,true,false,false,<3 horas,Diario,false,Primer hijo <30,Primer hijo <30,Alto
+2265,Terri,691967951,128,M,9/10/2025,1,,true,false,3-4 horas,Nunca,false,Primer hijo <30,Primer hijo >=30,Alto
+2007,Sayre,447996829,91,F,9/10/2025,1,true,true,true,Ninguna,Diario,false,Primer hijo <30,Primer hijo >=30,Moderado
+2040,Cassondra,232382094,88,F,9/10/2025,1,true,false,false,3-4 horas,Ocasional,true,No hijos,No hijos,Bajo
+2135,Mayer,254584439,2,M,9/10/2025,1,false,true,true,3-4 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2789,Yettie,316546923,55,F,9/10/2025,1,false,false,false,3-4 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Alto
+2363,Gabi,265038439,67,M,9/10/2025,1,true,false,true,>4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2154,Brendan,835563560,68,M,9/10/2025,1,false,false,true,Ninguna,Nunca,true,Primer hijo <30,No hijos,Moderado
+2650,Ole,920517566,90,M,9/10/2025,1,true,true,false,3-4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2781,Patrizius,532156418,97,M,9/10/2025,1,true,true,false,3-4 horas,Ocasional,true,Primer hijo <30,Primer hijo >=30,Alto
+2488,Boigie,834028710,25,M,9/10/2025,1,false,false,false,<3 horas,Diario,false,,Primer hijo <30,Alto
+2091,Meris,839609676,108,F,9/10/2025,1,true,false,true,<3 horas,Diario,true,Primer hijo >=30,No hijos,Bajo
+2953,Fielding,899682673,94,M,9/10/2025,1,false,false,false,3-4 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Bajo
+2278,Peyter,476665625,115,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,false,No hijos,Primer hijo >=30,Bajo
+2395,Deloris,937999775,13,F,9/10/2025,1,true,false,true,>4 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Moderado
+2040,Kristy,543695133,19,F,9/10/2025,1,true,false,false,3-4 horas,Nunca,true,No hijos,Primer hijo <30,Alto
+2557,Shalna,560709154,125,F,9/10/2025,1,false,false,false,<3 horas,Nunca,false,Primer hijo <30,Primer hijo >=30,Alto
+2050,Fionna,857899442,58,F,9/10/2025,1,false,true,false,Ninguna,Diario,false,Primer hijo <30,Primer hijo <30,Alto
+2977,Bill,837909982,38,M,9/10/2025,1,false,true,true,>4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Alto
+2913,Josee,296861766,123,F,9/10/2025,1,false,false,true,>4 horas,Nunca,false,Primer hijo >=30,No hijos,Bajo
+2244,Conrad,679450615,35,M,9/10/2025,1,false,false,true,3-4 horas,Nunca,true,No hijos,No hijos,Bajo
+2633,Idell,453046444,,F,9/10/2025,1,true,true,true,Ninguna,Diario,true,Primer hijo >=30,No hijos,Alto
+2801,Katrina,423943046,63,F,9/10/2025,1,true,true,false,>4 horas,Frecuente,true,Primer hijo >=30,No hijos,Moderado
+2330,Ingar,587159001,77,M,9/10/2025,1,true,false,true,>4 horas,Frecuente,false,Primer hijo <30,No hijos,Moderado
+2801,Carree,764580015,79,F,9/10/2025,1,true,false,true,<3 horas,Nunca,false,No hijos,No hijos,Bajo
+2288,Ezequiel,767704766,19,M,9/10/2025,1,true,true,false,>4 horas,Diario,true,No hijos,Primer hijo >=30,Moderado
+2933,Margie,258056003,64,F,9/10/2025,1,true,false,true,<3 horas,Diario,false,Primer hijo <30,Primer hijo <30,Bajo
+2147,Stuart,848614749,113,M,9/10/2025,1,false,false,false,,Nunca,true,,Primer hijo <30,Moderado
+2936,Grange,961191603,124,M,9/10/2025,1,true,true,true,>4 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Bajo
+2264,Trish,626723235,52,F,9/10/2025,1,true,true,false,Ninguna,Nunca,true,No hijos,Primer hijo <30,Moderado
+2818,Kristopher,415006510,50,M,9/10/2025,1,false,true,false,>4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Alto
+2979,Giffard,972001582,104,M,9/10/2025,1,false,false,true,<3 horas,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2684,Rollins,599965307,58,M,9/10/2025,1,false,true,true,Ninguna,Diario,true,Primer hijo >=30,No hijos,Bajo
+2681,Urbanus,726655248,138,M,9/10/2025,1,true,true,true,Ninguna,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2408,Corny,198669905,117,F,9/10/2025,1,true,false,true,3-4 horas,Ocasional,true,Primer hijo >=30,Primer hijo >=30,Alto
+2067,Lucille,583019009,56,F,9/10/2025,1,true,true,true,<3 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Bajo
+2684,Adah,161757825,54,F,9/10/2025,1,true,false,false,Ninguna,Diario,true,Primer hijo >=30,Primer hijo <30,Alto
+2138,Guthry,518308090,34,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,true,Primer hijo >=30,Primer hijo <30,Moderado
+2629,Owen,820747417,108,M,9/10/2025,1,false,true,true,>4 horas,Frecuente,true,Primer hijo >=30,No hijos,Bajo
+2634,Padgett,622260231,43,M,9/10/2025,1,false,true,false,>4 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Moderado
+2965,Pia,623082623,64,F,9/10/2025,1,false,false,true,>4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Moderado
+2212,Courtnay,517148276,22,M,9/10/2025,1,false,true,false,>4 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2570,Bondon,720914998,53,M,9/10/2025,1,false,true,true,,Nunca,true,Primer hijo <30,Primer hijo >=30,Alto
+2710,Gerrie,111640529,129,M,9/10/2025,1,,true,false,<3 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Alto
+2525,Deb,926857178,13,F,9/10/2025,1,true,true,true,>4 horas,Frecuente,true,Primer hijo >=30,No hijos,Bajo
+2339,Marchall,531420771,13,M,9/10/2025,1,false,false,false,<3 horas,Nunca,true,No hijos,Primer hijo <30,Moderado
+2098,Benni,332841634,106,F,9/10/2025,1,true,false,false,<3 horas,Ocasional,false,No hijos,No hijos,Moderado
+2662,Jae,190345418,,M,9/10/2025,1,false,false,true,3-4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Moderado
+2196,Gwynne,780761901,110,F,9/10/2025,1,true,false,true,<3 horas,Frecuente,true,No hijos,Primer hijo >=30,Moderado
+2914,Adolpho,328872510,118,M,9/10/2025,1,true,false,false,,Diario,false,Primer hijo >=30,Primer hijo <30,Bajo
+2850,Dallas,321963384,84,M,9/10/2025,1,false,true,true,<3 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Bajo
+2826,Fawne,806821312,75,F,9/10/2025,1,true,true,false,,Diario,false,Primer hijo >=30,Primer hijo <30,Moderado
+2920,Pebrook,720258682,57,M,9/10/2025,1,true,true,false,>4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Moderado
+2179,Donny,406493446,145,F,9/10/2025,1,true,true,false,,Ocasional,false,No hijos,No hijos,Alto
+2829,Lewes,405588007,89,M,9/10/2025,1,false,false,false,3-4 horas,Nunca,false,No hijos,No hijos,Bajo
+2149,Jerry,793014108,92,F,9/10/2025,1,false,true,true,Ninguna,Ocasional,false,Primer hijo >=30,No hijos,Alto
+2274,Wood,932590387,53,M,9/10/2025,1,true,true,true,>4 horas,Diario,true,,No hijos,Moderado
+2376,Kerstin,674629793,131,F,9/10/2025,1,false,false,false,Ninguna,Nunca,false,No hijos,No hijos,Alto
+2159,Nessa,185099561,95,F,9/10/2025,1,true,false,true,<3 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Alto
+2868,Hugo,397445595,76,M,9/10/2025,1,true,true,true,3-4 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Alto
+2633,Quentin,186786456,113,F,9/10/2025,1,false,true,false,Ninguna,Ocasional,true,No hijos,No hijos,Bajo
+2680,Anatole,337437025,36,M,9/10/2025,1,true,true,true,3-4 horas,Frecuente,false,Primer hijo >=30,No hijos,Moderado
+2826,Letta,456101432,,F,9/10/2025,1,true,false,true,3-4 horas,Nunca,true,Primer hijo <30,No hijos,Alto
+2053,Carling,240091506,122,M,9/10/2025,1,true,false,true,3-4 horas,Frecuente,false,Primer hijo >=30,No hijos,Bajo
+2618,Rochester,172624725,85,M,9/10/2025,1,true,false,true,Ninguna,Diario,false,Primer hijo >=30,Primer hijo <30,Bajo
+2946,Dion,861712610,2,F,9/10/2025,1,false,false,false,<3 horas,Ocasional,true,No hijos,Primer hijo <30,Alto
+2904,Lindsy,157476970,83,F,9/10/2025,1,true,true,true,<3 horas,Nunca,false,No hijos,No hijos,Alto
+2163,Taber,892567079,91,M,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,Primer hijo <30,No hijos,Alto
+2366,Hobie,384894360,21,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,true,Primer hijo <30,No hijos,Alto
+2590,Gigi,109352617,,F,9/10/2025,1,false,true,true,Ninguna,Nunca,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2797,Alecia,913156265,33,F,9/10/2025,1,false,false,false,Ninguna,Diario,false,Primer hijo <30,No hijos,Bajo
+2714,Parnell,554385266,113,M,9/10/2025,1,false,false,false,>4 horas,Ocasional,false,,Primer hijo >=30,Moderado
+2664,Aeriela,925148672,117,F,9/10/2025,1,true,false,true,>4 horas,Nunca,true,Primer hijo >=30,No hijos,Bajo
+2283,Brew,852658174,35,M,9/10/2025,1,false,false,false,Ninguna,Nunca,false,Primer hijo <30,Primer hijo <30,Moderado
+2181,Cullan,227997474,41,M,9/10/2025,1,false,false,false,>4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Alto
+2088,Roze,436732726,48,F,9/10/2025,1,true,false,true,Ninguna,Diario,false,Primer hijo <30,No hijos,Bajo
+2384,Justinn,939450799,64,F,9/10/2025,1,false,false,true,<3 horas,Diario,true,No hijos,No hijos,Bajo
+2716,Wright,853534422,102,M,9/10/2025,1,true,true,true,3-4 horas,Diario,true,No hijos,Primer hijo <30,Moderado
+2879,Nathanial,174979707,13,M,9/10/2025,1,true,false,true,>4 horas,Ocasional,true,Primer hijo >=30,Primer hijo <30,Alto
+2882,Annissa,298431815,89,F,9/10/2025,1,false,false,true,>4 horas,Diario,true,No hijos,Primer hijo >=30,Moderado
+2287,Ambrose,943568520,2,M,9/10/2025,1,true,false,false,3-4 horas,Ocasional,false,Primer hijo <30,No hijos,Alto
+2383,Drona,969151361,91,F,9/10/2025,1,true,false,true,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2020,Madelaine,927797358,55,F,9/10/2025,1,true,true,false,3-4 horas,Diario,false,No hijos,Primer hijo >=30,Alto
+2791,Glynda,523110536,84,F,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,Primer hijo >=30,Primer hijo <30,Moderado
+2882,Dill,929329777,16,M,9/10/2025,1,true,true,false,<3 horas,Diario,false,No hijos,Primer hijo <30,Moderado
+2358,Marc,710928936,61,M,9/10/2025,1,true,true,false,3-4 horas,Frecuente,false,No hijos,Primer hijo <30,Alto
+2074,Flora,394544436,,F,9/10/2025,1,false,false,false,Ninguna,Diario,true,Primer hijo <30,No hijos,Moderado
+2677,Kirby,156440732,44,F,9/10/2025,1,false,true,true,Ninguna,Ocasional,false,Primer hijo >=30,Primer hijo <30,Bajo
+2607,Alfonso,158951510,138,M,9/10/2025,1,false,false,false,<3 horas,Diario,false,No hijos,Primer hijo >=30,Moderado
+2799,Florie,484939803,102,F,9/10/2025,1,false,false,false,>4 horas,Frecuente,false,No hijos,Primer hijo <30,Bajo
+2629,Nappy,845599951,140,M,9/10/2025,1,true,false,true,3-4 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Alto
+2993,Ware,824444017,143,M,9/10/2025,1,true,true,false,>4 horas,Frecuente,false,Primer hijo >=30,No hijos,Alto
+2393,Ira,896931726,147,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2926,Skell,437806187,72,M,9/10/2025,1,,true,true,>4 horas,Ocasional,true,Primer hijo >=30,No hijos,Alto
+2246,Briano,538022854,109,M,9/10/2025,1,true,false,true,Ninguna,Ocasional,true,No hijos,No hijos,Alto
+2140,Roz,132403376,11,F,9/10/2025,1,true,true,true,,Diario,false,Primer hijo >=30,No hijos,Moderado
+2415,Benjamin,808089990,11,M,9/10/2025,1,true,true,false,<3 horas,Diario,false,No hijos,Primer hijo <30,Alto
+2929,Braden,203046745,108,M,9/10/2025,1,true,false,true,<3 horas,Diario,false,Primer hijo >=30,No hijos,Moderado
+2831,Annnora,798924013,40,F,9/10/2025,1,false,true,true,>4 horas,Ocasional,true,No hijos,Primer hijo <30,Moderado
+2112,Waylan,451816428,111,M,9/10/2025,1,false,false,false,<3 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Moderado
+2416,Cherida,480785227,35,F,9/10/2025,1,true,true,false,<3 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Moderado
+2201,Niven,116078272,41,M,9/10/2025,1,true,false,true,3-4 horas,Ocasional,true,Primer hijo >=30,Primer hijo <30,Alto
+2263,Goran,625922331,125,M,9/10/2025,1,true,false,true,<3 horas,Ocasional,true,No hijos,No hijos,Alto
+2006,Alla,925757152,148,F,9/10/2025,1,true,false,true,Ninguna,Nunca,true,Primer hijo <30,Primer hijo >=30,Moderado
+2436,Harper,645691835,6,M,9/10/2025,1,true,false,true,>4 horas,Frecuente,true,Primer hijo <30,Primer hijo >=30,Moderado
+2662,Shurlock,622741629,85,M,9/10/2025,1,true,true,false,>4 horas,Diario,true,Primer hijo >=30,No hijos,Moderado
+2122,Emilee,144784684,71,F,9/10/2025,1,false,true,true,<3 horas,Frecuente,true,No hijos,No hijos,Moderado
+2544,Robbyn,996208934,82,F,9/10/2025,1,false,false,false,>4 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Moderado
+2636,Myrvyn,798131852,58,M,9/10/2025,1,false,true,false,3-4 horas,Frecuente,false,No hijos,Primer hijo <30,Moderado
+2303,Nikolaos,722516761,63,M,9/10/2025,1,true,false,false,<3 horas,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Alto
+2888,Nobie,701025549,126,M,9/10/2025,1,true,false,true,>4 horas,Diario,false,,No hijos,Bajo
+2054,Gilly,466952149,147,F,9/10/2025,1,false,false,false,,Nunca,true,No hijos,Primer hijo >=30,Moderado
+2723,Pierce,915178546,97,M,9/10/2025,1,false,false,true,>4 horas,Diario,true,Primer hijo >=30,No hijos,Moderado
+2418,Joby,929924646,70,F,9/10/2025,1,,false,true,<3 horas,Diario,true,Primer hijo <30,Primer hijo <30,Alto
+2671,Carie,412893375,18,F,9/10/2025,1,true,true,false,3-4 horas,Ocasional,true,No hijos,No hijos,Moderado
+2638,Nowell,413059297,73,M,9/10/2025,1,false,false,true,>4 horas,Ocasional,true,Primer hijo >=30,Primer hijo <30,Moderado
+2869,Maurizia,929359541,8,F,9/10/2025,1,false,true,true,>4 horas,Nunca,true,Primer hijo <30,Primer hijo <30,Moderado
+2818,Gussie,760362806,65,F,9/10/2025,1,false,false,true,3-4 horas,Nunca,true,No hijos,Primer hijo <30,Alto
+2894,Kerry,236390485,118,M,9/10/2025,1,false,true,false,Ninguna,Nunca,true,Primer hijo <30,Primer hijo <30,Alto
+2379,Roscoe,238649272,38,M,9/10/2025,1,true,false,false,<3 horas,Diario,true,No hijos,Primer hijo >=30,Moderado
+2526,Drona,222136534,62,F,9/10/2025,1,false,false,true,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo <30,Alto
+2884,Normy,855350825,71,M,9/10/2025,1,false,false,true,Ninguna,Diario,false,Primer hijo >=30,No hijos,Moderado
+2382,Morly,601177470,123,M,9/10/2025,1,true,true,true,Ninguna,Ocasional,true,No hijos,Primer hijo >=30,Bajo
+2599,Lauritz,698750712,70,M,9/10/2025,1,false,false,true,Ninguna,Diario,true,Primer hijo <30,No hijos,Alto
+2995,Nikkie,104461587,130,F,9/10/2025,1,false,true,false,<3 horas,Diario,false,Primer hijo >=30,No hijos,Bajo
+2989,Clarey,668489787,131,F,9/10/2025,1,true,true,false,<3 horas,Nunca,true,Primer hijo <30,Primer hijo <30,Alto
+2362,Madge,861754172,109,F,9/10/2025,1,false,true,false,Ninguna,Ocasional,true,Primer hijo >=30,Primer hijo <30,Bajo
+2752,Brod,567165156,145,M,9/10/2025,1,true,true,false,<3 horas,Ocasional,false,No hijos,Primer hijo >=30,Moderado
+2021,Cosimo,773352963,124,M,9/10/2025,1,false,true,true,3-4 horas,Nunca,true,Primer hijo <30,Primer hijo >=30,Bajo
+2801,Ramon,551552883,140,M,9/10/2025,1,false,false,true,,Diario,false,Primer hijo <30,Primer hijo <30,Moderado
+2325,Boycie,549400726,45,M,9/10/2025,1,false,true,true,>4 horas,Frecuente,true,No hijos,Primer hijo >=30,Bajo
+2226,Sena,986126155,142,F,9/10/2025,1,false,true,false,Ninguna,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2874,Brandtr,915829920,4,M,9/10/2025,1,true,false,false,>4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Bajo
+2590,Ginnifer,720752541,141,F,9/10/2025,1,true,false,true,<3 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Bajo
+2554,Kiley,375497449,24,M,9/10/2025,1,true,false,true,>4 horas,Nunca,true,Primer hijo <30,No hijos,Bajo
+2349,Kin,777364109,106,M,9/10/2025,1,true,true,false,>4 horas,Diario,false,No hijos,Primer hijo <30,Moderado
+2463,Linette,608578959,69,F,9/10/2025,1,false,false,false,3-4 horas,Nunca,true,No hijos,Primer hijo <30,Bajo
+2675,Dean,177859260,101,M,9/10/2025,1,true,false,false,<3 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Alto
+2296,Reyna,569326189,95,F,9/10/2025,1,true,false,false,Ninguna,Diario,false,No hijos,Primer hijo >=30,Moderado
+2604,Ephrayim,276327724,115,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,true,Primer hijo <30,Primer hijo >=30,Alto
+2241,Gordan,304063662,55,M,9/10/2025,1,false,false,true,3-4 horas,Diario,false,No hijos,Primer hijo <30,Bajo
+2346,Norrie,847991534,148,M,9/10/2025,1,true,false,false,<3 horas,Nunca,false,No hijos,No hijos,Bajo
+2015,Hew,664891407,140,M,9/10/2025,1,true,false,true,>4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Moderado
+2632,Lee,881719031,76,F,9/10/2025,1,false,false,true,>4 horas,Diario,true,Primer hijo <30,No hijos,Bajo
+2042,Faustine,149194106,55,F,9/10/2025,1,false,false,false,<3 horas,Diario,true,No hijos,No hijos,Bajo
+2708,Gasper,154698620,111,M,9/10/2025,1,false,true,true,<3 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2667,Audrye,632908063,95,F,9/10/2025,1,false,true,false,>4 horas,Ocasional,false,,Primer hijo <30,Bajo
+2701,Haslett,153429471,27,M,9/10/2025,1,false,false,true,Ninguna,Nunca,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2626,Teddie,165340085,79,M,9/10/2025,1,,true,false,,Ocasional,true,Primer hijo <30,Primer hijo >=30,Bajo
+2721,Blinny,792822528,143,F,9/10/2025,1,true,false,true,>4 horas,Ocasional,true,Primer hijo <30,No hijos,Bajo
+2620,Jemima,155545330,9,F,9/10/2025,1,false,false,true,<3 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Alto
+2759,Tanhya,299948384,63,F,9/10/2025,1,true,false,false,3-4 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Alto
+2363,Saunders,205217009,135,M,9/10/2025,1,false,true,false,Ninguna,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Alto
+2798,Corty,592446027,137,M,9/10/2025,1,false,true,true,Ninguna,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Alto
+2548,Gerard,132848769,105,M,9/10/2025,1,true,false,true,Ninguna,Ocasional,true,Primer hijo >=30,Primer hijo <30,Bajo
+2927,Umeko,785262393,,F,9/10/2025,1,true,false,false,3-4 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Bajo
+2775,Floris,996065370,98,F,9/10/2025,1,false,false,false,>4 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Bajo
+2896,Abe,734181105,14,M,9/10/2025,1,false,false,true,<3 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Moderado
+2010,Vivyanne,399700331,,F,9/10/2025,1,false,false,true,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2309,Sigrid,890826844,83,F,9/10/2025,1,false,false,true,Ninguna,Diario,false,No hijos,Primer hijo <30,Moderado
+2451,Muhammad,935268863,141,M,9/10/2025,1,false,false,true,<3 horas,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2862,Creight,951496735,89,M,9/10/2025,1,true,true,true,3-4 horas,Frecuente,true,No hijos,Primer hijo <30,Moderado
+2884,Sim,922546664,108,M,9/10/2025,1,false,false,true,3-4 horas,Ocasional,true,Primer hijo <30,No hijos,Moderado
+2998,Ber,293349289,105,M,9/10/2025,1,false,false,false,>4 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Bajo
+2615,Reinold,207015156,89,M,9/10/2025,1,false,false,true,>4 horas,Frecuente,false,Primer hijo <30,No hijos,Moderado
+2909,Marlow,303061154,,M,9/10/2025,1,true,false,false,>4 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2034,Tiphani,238063176,132,F,9/10/2025,1,true,true,false,<3 horas,Nunca,false,Primer hijo <30,Primer hijo >=30,Moderado
+2193,Jerald,850652531,1,M,9/10/2025,1,false,true,false,Ninguna,Frecuente,true,Primer hijo <30,No hijos,Bajo
+2080,Genevra,799998614,96,F,9/10/2025,1,true,true,true,3-4 horas,Nunca,true,Primer hijo >=30,No hijos,Alto
+2121,Carma,194647466,141,F,9/10/2025,1,true,true,true,,Frecuente,false,No hijos,Primer hijo <30,Bajo
+2259,Temple,215912251,140,M,9/10/2025,1,true,true,false,<3 horas,Diario,true,No hijos,Primer hijo <30,Moderado
+2644,Alfie,476331629,,F,9/10/2025,1,true,true,false,,Ocasional,true,Primer hijo <30,Primer hijo <30,Alto
+2465,Magdaia,706436849,147,F,9/10/2025,1,true,true,false,Ninguna,Frecuente,true,No hijos,No hijos,Alto
+2157,Anthia,730315786,64,F,9/10/2025,1,true,true,false,>4 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Moderado
+2770,Andras,956681249,102,M,9/10/2025,1,true,false,false,3-4 horas,Diario,true,No hijos,Primer hijo <30,Alto
+2240,Sigfrid,148859892,38,M,9/10/2025,1,false,false,true,>4 horas,Nunca,false,Primer hijo <30,Primer hijo >=30,Alto
+2537,Matt,197340439,13,M,9/10/2025,1,true,false,true,>4 horas,Diario,true,No hijos,Primer hijo >=30,Moderado
+2013,Amaleta,700063401,51,F,9/10/2025,1,,true,true,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo <30,Moderado
+2833,Bartlett,470974628,56,M,9/10/2025,1,false,false,true,<3 horas,Diario,true,Primer hijo >=30,No hijos,Alto
+2471,Michale,515419107,108,M,9/10/2025,1,false,false,false,>4 horas,Ocasional,true,Primer hijo <30,No hijos,Bajo
+2675,Beilul,336285815,125,F,9/10/2025,1,false,true,false,>4 horas,Diario,true,Primer hijo <30,No hijos,Moderado
+2574,Lyda,669721410,10,F,9/10/2025,1,true,true,false,<3 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2894,Peggie,665459624,118,F,9/10/2025,1,false,false,true,>4 horas,Frecuente,true,No hijos,Primer hijo >=30,Bajo
+2794,Jarrett,568877372,50,M,9/10/2025,1,false,true,true,<3 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2803,Iolande,462493893,62,F,9/10/2025,1,true,true,false,Ninguna,Nunca,false,Primer hijo >=30,No hijos,Bajo
+2844,Ralph,744142793,13,M,9/10/2025,1,false,true,false,>4 horas,Nunca,true,Primer hijo >=30,No hijos,Moderado
+2605,Hamil,956829542,73,M,9/10/2025,1,true,false,true,Ninguna,Nunca,false,No hijos,Primer hijo >=30,Alto
+2420,Inigo,804770199,77,M,9/10/2025,1,false,false,true,Ninguna,Nunca,true,Primer hijo >=30,Primer hijo <30,Alto
+2527,Arny,891565805,49,M,9/10/2025,1,true,false,true,3-4 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2471,Dar,203578241,86,M,9/10/2025,1,false,true,true,3-4 horas,Nunca,true,Primer hijo <30,Primer hijo <30,Bajo
+2060,Yardley,529846695,87,M,9/10/2025,1,false,false,true,3-4 horas,Diario,false,No hijos,Primer hijo <30,Moderado
+2585,Camel,258882301,65,F,9/10/2025,1,false,true,false,<3 horas,Nunca,true,No hijos,No hijos,Alto
+2700,Ambrosius,529916228,143,M,9/10/2025,1,false,false,true,>4 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Bajo
+2516,Cheston,217912311,100,M,9/10/2025,1,true,false,true,<3 horas,Diario,true,Primer hijo <30,No hijos,Alto
+2900,Brew,703375650,54,M,9/10/2025,1,true,true,false,Ninguna,Diario,false,,Primer hijo >=30,Bajo
+2035,Orazio,379905693,36,M,9/10/2025,1,true,true,true,Ninguna,Diario,false,Primer hijo >=30,Primer hijo <30,Alto
+2320,Mikaela,981871460,149,F,9/10/2025,1,false,true,true,<3 horas,Diario,true,Primer hijo >=30,No hijos,Bajo
+2276,Gail,113805717,33,F,9/10/2025,1,true,true,false,<3 horas,Frecuente,false,No hijos,No hijos,Alto
+2639,Loralie,268466032,50,F,9/10/2025,1,false,true,true,>4 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Bajo
+2701,Emogene,404853469,51,F,9/10/2025,1,true,false,false,>4 horas,Ocasional,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2881,Milton,183679042,29,M,9/10/2025,1,false,true,false,Ninguna,Ocasional,true,,Primer hijo >=30,Moderado
+2789,Ede,983580947,143,F,9/10/2025,1,true,false,true,3-4 horas,Ocasional,false,No hijos,No hijos,Bajo
+2826,Nelia,110800185,83,F,9/10/2025,1,true,false,true,3-4 horas,Ocasional,true,Primer hijo <30,Primer hijo >=30,Bajo
+2766,Jana,106663689,86,F,9/10/2025,1,true,true,true,<3 horas,Frecuente,false,Primer hijo >=30,No hijos,Bajo
+2022,Tobie,323091665,87,M,9/10/2025,1,false,true,true,Ninguna,Diario,true,Primer hijo >=30,No hijos,Moderado
+2740,Brianna,844131893,12,F,9/10/2025,1,true,true,true,<3 horas,Ocasional,false,No hijos,Primer hijo >=30,Moderado
+2503,Jazmin,525297357,2,F,9/10/2025,1,false,false,false,,Diario,true,Primer hijo >=30,No hijos,Bajo
+2554,Kathlin,650797951,50,F,9/10/2025,1,true,true,true,Ninguna,Diario,false,Primer hijo <30,Primer hijo <30,Moderado
+2639,Scarlet,459790060,8,F,9/10/2025,1,false,true,true,>4 horas,Diario,false,No hijos,Primer hijo <30,Moderado
+2178,Wheeler,719643818,83,M,9/10/2025,1,false,true,true,<3 horas,Frecuente,true,No hijos,No hijos,Bajo
+2332,Stanford,950901161,71,M,9/10/2025,1,false,false,true,Ninguna,Nunca,false,,Primer hijo >=30,Bajo
+2125,Tybi,808305520,146,F,9/10/2025,1,false,false,false,,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2279,Darcee,473445634,143,F,9/10/2025,1,true,false,false,>4 horas,Nunca,false,Primer hijo <30,No hijos,Alto
+2922,Rollin,655175240,60,M,9/10/2025,1,true,false,true,<3 horas,Frecuente,false,No hijos,No hijos,Alto
+2578,Guy,253764376,32,M,9/10/2025,1,true,false,false,<3 horas,Nunca,false,Primer hijo <30,No hijos,Bajo
+2873,Shelby,821891856,98,M,9/10/2025,1,false,false,false,<3 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2134,Bobinette,122935233,39,F,9/10/2025,1,false,false,true,3-4 horas,Ocasional,false,Primer hijo <30,Primer hijo >=30,Alto
+2248,Elisabeth,276747332,117,F,9/10/2025,1,true,true,false,3-4 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2400,Forester,782828948,103,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,true,No hijos,Primer hijo >=30,Bajo
+2133,Bendite,147237253,116,F,9/10/2025,1,true,false,false,,Diario,false,No hijos,No hijos,Moderado
+2025,Tabor,163618351,22,M,9/10/2025,1,false,false,false,3-4 horas,Ocasional,true,Primer hijo <30,No hijos,Moderado
+2053,Nikolia,914913583,60,F,9/10/2025,1,true,false,false,3-4 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2461,Missy,430532709,135,F,9/10/2025,1,false,true,true,<3 horas,Diario,false,Primer hijo <30,No hijos,Bajo
+2670,Nikolaus,255131895,113,M,9/10/2025,1,false,false,false,3-4 horas,Ocasional,true,,Primer hijo <30,Moderado
+2715,Harris,206237820,38,M,9/10/2025,1,false,true,true,3-4 horas,Diario,true,No hijos,Primer hijo >=30,Bajo
+2561,Donaugh,920641973,78,M,9/10/2025,1,true,true,false,>4 horas,Ocasional,true,Primer hijo <30,No hijos,Alto
+2071,Lindy,493015212,49,M,9/10/2025,1,false,true,false,>4 horas,Ocasional,false,No hijos,Primer hijo >=30,Bajo
+2283,Ingrim,136242336,32,M,9/10/2025,1,false,false,true,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo <30,Bajo
+2572,Ashley,647645580,136,F,9/10/2025,1,true,false,false,3-4 horas,Ocasional,true,Primer hijo <30,No hijos,Moderado
+2363,Othella,623989200,23,F,9/10/2025,1,true,false,false,<3 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Moderado
+2908,Dina,245169130,43,F,9/10/2025,1,true,false,false,Ninguna,Nunca,false,Primer hijo <30,No hijos,Alto
+2723,Filippa,739650259,17,F,9/10/2025,1,,true,true,<3 horas,Diario,false,,No hijos,Alto
+2813,Ado,556311799,128,M,9/10/2025,1,true,false,false,3-4 horas,Diario,true,Primer hijo <30,No hijos,Moderado
+2798,Lemmy,392978810,140,M,9/10/2025,1,false,true,true,3-4 horas,Frecuente,false,Primer hijo >=30,No hijos,Moderado
+2159,Jordan,211556569,108,M,9/10/2025,1,false,true,true,Ninguna,Nunca,true,Primer hijo <30,No hijos,Bajo
+2564,Jamal,806277014,19,M,9/10/2025,1,false,true,true,3-4 horas,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2323,Fletch,415157404,132,M,9/10/2025,1,false,false,false,<3 horas,Frecuente,false,No hijos,Primer hijo >=30,Alto
+2170,Ansell,358490823,49,M,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,Primer hijo >=30,No hijos,Bajo
+2662,Norina,514094380,14,F,9/10/2025,1,false,true,false,<3 horas,Diario,true,,No hijos,Moderado
+2230,Eduard,725543328,136,M,9/10/2025,1,true,true,true,>4 horas,Frecuente,false,Primer hijo <30,No hijos,Bajo
+2827,Dory,513111148,56,M,9/10/2025,1,true,true,false,,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2014,Kiersten,478307705,123,F,9/10/2025,1,true,false,true,3-4 horas,Ocasional,false,No hijos,Primer hijo >=30,Moderado
+2860,Florina,751001286,28,F,9/10/2025,1,true,true,true,<3 horas,Frecuente,true,,No hijos,Moderado
+2236,Olenolin,209847303,127,M,9/10/2025,1,true,false,true,3-4 horas,Ocasional,true,Primer hijo >=30,No hijos,Bajo
+2779,Chelsy,213535182,,F,9/10/2025,1,true,true,false,3-4 horas,Ocasional,true,No hijos,Primer hijo <30,Bajo
+2984,Shandeigh,611277032,16,F,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,,Primer hijo >=30,Moderado
+2720,Valene,325552266,118,F,9/10/2025,1,false,true,true,<3 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Bajo
+2652,Norry,803344688,27,F,9/10/2025,1,false,false,true,Ninguna,Ocasional,true,Primer hijo <30,Primer hijo <30,Alto
+2246,Elfrieda,567746391,5,F,9/10/2025,1,false,true,true,<3 horas,Frecuente,true,No hijos,Primer hijo >=30,Bajo
+2491,Ida,482617386,38,F,9/10/2025,1,true,true,true,<3 horas,Diario,true,Primer hijo >=30,No hijos,Moderado
+2768,Turner,105296798,103,M,9/10/2025,1,true,false,false,>4 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Alto
+2866,Abdel,810280549,72,M,9/10/2025,1,true,true,false,>4 horas,Ocasional,false,No hijos,Primer hijo <30,Moderado
+2914,Damian,166256346,129,M,9/10/2025,1,false,true,true,Ninguna,Nunca,false,No hijos,Primer hijo >=30,Alto
+2476,Sherline,188299081,106,F,9/10/2025,1,false,false,true,Ninguna,Ocasional,false,Primer hijo <30,Primer hijo >=30,Alto
+2706,Cristy,256944943,34,F,9/10/2025,1,true,true,true,3-4 horas,Frecuente,true,Primer hijo >=30,Primer hijo <30,Alto
+2222,Charla,800700216,50,F,9/10/2025,1,true,true,true,>4 horas,Nunca,true,Primer hijo <30,No hijos,Moderado
+2568,Josias,940441110,41,M,9/10/2025,1,false,true,true,<3 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Bajo
+2530,Susanne,736173231,70,F,9/10/2025,1,false,true,false,>4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Moderado
+2678,Riccardo,689259388,71,M,9/10/2025,1,false,true,false,Ninguna,Nunca,true,Primer hijo >=30,Primer hijo <30,Moderado
+2564,Kimberley,249622721,11,F,9/10/2025,1,true,false,false,3-4 horas,Nunca,false,Primer hijo <30,No hijos,Bajo
+2939,Bancroft,271766760,117,M,9/10/2025,1,false,false,true,<3 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Bajo
+2191,Walsh,993058523,52,M,9/10/2025,1,false,false,false,Ninguna,Frecuente,true,No hijos,Primer hijo <30,Moderado
+2258,Humfrey,396773872,131,M,9/10/2025,1,true,true,false,<3 horas,Frecuente,true,Primer hijo >=30,No hijos,Bajo
+2398,Cory,619720387,63,F,9/10/2025,1,true,false,true,3-4 horas,Diario,false,No hijos,Primer hijo >=30,Moderado
+2430,Fee,793559719,12,M,9/10/2025,1,true,false,false,<3 horas,Frecuente,true,No hijos,Primer hijo <30,Moderado
+2230,Jana,989486081,34,F,9/10/2025,1,true,true,false,3-4 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Moderado
+2196,Josefina,893983725,78,F,9/10/2025,1,false,true,true,Ninguna,Diario,true,,Primer hijo <30,Alto
+2513,Gwennie,687958331,76,F,9/10/2025,1,true,false,true,>4 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Bajo
+2981,Valdemar,706266668,97,M,9/10/2025,1,true,false,true,>4 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Moderado
+2793,Kingsley,450305431,147,M,9/10/2025,1,true,false,false,<3 horas,Frecuente,true,Primer hijo >=30,No hijos,Moderado
+2923,Wallis,305799865,149,M,9/10/2025,1,true,true,false,Ninguna,Frecuente,false,No hijos,Primer hijo <30,Bajo
+2369,Berke,632514949,98,M,9/10/2025,1,false,true,false,3-4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Alto
+2598,Tod,438312965,144,M,9/10/2025,1,true,false,true,>4 horas,Ocasional,false,No hijos,Primer hijo >=30,Alto
+2997,Fonzie,606927235,,M,9/10/2025,1,false,false,false,>4 horas,Frecuente,false,Primer hijo >=30,No hijos,Bajo
+2975,Joelle,345324586,96,F,9/10/2025,1,false,false,true,3-4 horas,Diario,false,Primer hijo <30,No hijos,Moderado
+2171,Carmella,577217765,28,F,9/10/2025,1,true,false,true,,Diario,true,Primer hijo >=30,Primer hijo <30,Alto
+2358,Emmy,249315575,40,F,9/10/2025,1,false,false,true,3-4 horas,Diario,true,Primer hijo <30,Primer hijo <30,Moderado
+2174,Emerson,316033405,24,M,9/10/2025,1,true,true,true,3-4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Moderado
+2357,Ronny,688752832,142,M,9/10/2025,1,false,true,true,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Bajo
+2194,Nadia,957251488,23,F,9/10/2025,1,false,false,true,Ninguna,Nunca,true,No hijos,No hijos,Alto
+2993,Oliviero,992062496,20,M,9/10/2025,1,false,false,true,<3 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Alto
+2519,Easter,412010094,62,F,9/10/2025,1,false,false,true,3-4 horas,Frecuente,false,Primer hijo >=30,No hijos,Alto
+2483,Patrice,534728728,103,M,9/10/2025,1,false,false,false,<3 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2151,Caril,211900982,149,F,9/10/2025,1,true,false,true,<3 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Alto
+2295,Kenon,979183187,72,M,9/10/2025,1,,true,false,3-4 horas,Nunca,true,No hijos,Primer hijo <30,Bajo
+2652,Greer,324361469,79,F,9/10/2025,1,true,true,false,>4 horas,Diario,false,No hijos,Primer hijo >=30,Moderado
+2949,Angel,151157177,14,F,9/10/2025,1,false,true,true,<3 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Bajo
+2216,Sean,892615384,40,F,9/10/2025,1,false,false,false,3-4 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Moderado
+2128,Gerda,864753524,22,F,9/10/2025,1,true,false,false,3-4 horas,Diario,false,,No hijos,Bajo
+2725,Inigo,827827210,110,M,9/10/2025,1,false,false,true,Ninguna,Frecuente,true,Primer hijo <30,Primer hijo <30,Bajo
+2520,Barnabe,896452908,66,M,9/10/2025,1,true,false,true,Ninguna,Diario,false,No hijos,No hijos,Alto
+2679,Meggy,569476256,50,F,9/10/2025,1,true,false,true,3-4 horas,Frecuente,true,Primer hijo >=30,Primer hijo <30,Alto
+2471,Alexa,178192383,28,F,9/10/2025,1,false,false,false,>4 horas,Nunca,true,No hijos,Primer hijo >=30,Alto
+2427,Emelita,313199475,26,F,9/10/2025,1,false,false,false,Ninguna,Nunca,true,Primer hijo <30,No hijos,Bajo
+2055,Vinnie,900132740,122,F,9/10/2025,1,true,true,false,<3 horas,Diario,true,Primer hijo >=30,No hijos,Bajo
+2927,Lorne,229802104,52,M,9/10/2025,1,false,false,true,>4 horas,Diario,true,Primer hijo >=30,No hijos,Moderado
+2505,Halette,894186219,111,F,9/10/2025,1,false,true,true,<3 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Moderado
+2556,Oralle,304108615,140,F,9/10/2025,1,false,true,false,<3 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2083,Mignonne,883178407,63,F,9/10/2025,1,false,false,false,3-4 horas,Diario,true,Primer hijo <30,No hijos,Moderado
+2935,Kass,450143189,86,F,9/10/2025,1,false,true,true,<3 horas,Ocasional,false,Primer hijo <30,No hijos,Moderado
+2152,Bail,650509150,133,M,9/10/2025,1,false,false,true,3-4 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2234,Barbie,729472835,59,F,9/10/2025,1,true,false,false,>4 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2798,Filberte,668975093,113,M,9/10/2025,1,true,false,false,3-4 horas,Diario,true,No hijos,Primer hijo <30,Alto
+2152,Clarence,743916967,38,M,9/10/2025,1,true,false,true,>4 horas,Nunca,true,,Primer hijo <30,Moderado
+2093,Naoma,100273439,45,F,9/10/2025,1,true,false,true,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo <30,Moderado
+2804,Udale,723051356,37,M,9/10/2025,1,false,true,true,Ninguna,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2012,Duff,627722299,23,M,9/10/2025,1,true,false,true,3-4 horas,Diario,true,No hijos,Primer hijo <30,Moderado
+2076,Patsy,108647714,122,M,9/10/2025,1,true,true,true,Ninguna,Nunca,true,No hijos,No hijos,Alto
+2551,Asher,886686287,150,M,9/10/2025,1,false,true,false,3-4 horas,Ocasional,true,,Primer hijo >=30,Moderado
+2578,Eadmund,355489207,97,M,9/10/2025,1,false,true,true,>4 horas,Nunca,true,Primer hijo <30,Primer hijo >=30,Moderado
+2827,Dolorita,114802375,138,F,9/10/2025,1,false,false,false,3-4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Alto
+2408,Banky,310850100,123,M,9/10/2025,1,true,false,false,3-4 horas,Diario,true,No hijos,Primer hijo <30,Alto
+2109,Harriott,794133562,67,F,9/10/2025,1,false,false,true,<3 horas,Nunca,true,No hijos,Primer hijo <30,Bajo
+2296,Jecho,825079109,75,M,9/10/2025,1,true,true,true,Ninguna,Ocasional,true,Primer hijo <30,Primer hijo >=30,Alto
+2008,Isaiah,919268679,115,M,9/10/2025,1,false,true,false,3-4 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2294,Quinn,507334681,97,M,9/10/2025,1,true,true,true,>4 horas,Nunca,false,No hijos,No hijos,Alto
+2722,Estella,486350325,13,F,9/10/2025,1,true,true,false,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo <30,Alto
+2685,Jasun,468185671,122,M,9/10/2025,1,true,true,false,<3 horas,Nunca,false,Primer hijo <30,No hijos,Moderado
+2318,Caresse,150829040,136,F,9/10/2025,1,true,true,false,>4 horas,Frecuente,false,Primer hijo >=30,No hijos,Bajo
+2766,Aldridge,473562160,88,M,9/10/2025,1,false,true,false,,Nunca,false,Primer hijo >=30,No hijos,Alto
+2041,Baron,329933110,117,M,9/10/2025,1,true,false,true,<3 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Alto
+2819,Roy,924615399,42,M,9/10/2025,1,false,true,false,3-4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Bajo
+2401,Wenonah,319861177,16,F,9/10/2025,1,false,false,true,Ninguna,Nunca,false,No hijos,No hijos,Alto
+2700,Powell,379856529,11,M,9/10/2025,1,true,false,true,>4 horas,Ocasional,false,Primer hijo >=30,No hijos,Moderado
+2974,Shani,722212224,12,F,9/10/2025,1,false,true,false,>4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Alto
+2054,Christal,475385113,,F,9/10/2025,1,false,false,true,<3 horas,Diario,false,No hijos,No hijos,Bajo
+2290,Marcela,565291074,133,F,9/10/2025,1,true,false,true,Ninguna,Frecuente,false,No hijos,Primer hijo <30,Alto
+2958,Latia,435566337,14,F,9/10/2025,1,true,false,false,Ninguna,Frecuente,false,No hijos,Primer hijo >=30,Alto
+2147,Lorenzo,524412618,125,M,9/10/2025,1,true,false,true,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2598,Kalil,406331421,55,M,9/10/2025,1,false,false,true,3-4 horas,Ocasional,true,Primer hijo >=30,No hijos,Moderado
+2246,Isabelle,939502628,102,F,9/10/2025,1,false,false,false,<3 horas,Diario,true,No hijos,No hijos,Moderado
+2794,Ricardo,891885351,15,M,9/10/2025,1,true,true,false,<3 horas,Ocasional,true,Primer hijo >=30,No hijos,Alto
+2557,Zolly,800768363,142,M,9/10/2025,1,false,true,true,,Diario,false,Primer hijo >=30,Primer hijo <30,Alto
+2753,Bank,749314151,,M,9/10/2025,1,false,false,false,>4 horas,Diario,true,Primer hijo <30,Primer hijo <30,Moderado
+2958,Teirtza,341190065,147,F,9/10/2025,1,true,true,false,,Frecuente,true,Primer hijo <30,No hijos,Alto
+2460,Melisandra,889705711,3,F,9/10/2025,1,false,false,false,>4 horas,Ocasional,false,No hijos,Primer hijo >=30,Alto
+2785,Lay,197933661,129,M,9/10/2025,1,false,true,false,Ninguna,Ocasional,false,No hijos,Primer hijo >=30,Bajo
+2940,Natty,239241723,45,M,9/10/2025,1,false,false,false,,Frecuente,false,Primer hijo >=30,Primer hijo <30,Moderado
+2561,Hilly,498236701,20,M,9/10/2025,1,true,true,false,3-4 horas,Diario,false,No hijos,Primer hijo <30,Alto
+2220,Man,449047970,107,M,9/10/2025,1,true,true,true,<3 horas,Frecuente,false,Primer hijo >=30,No hijos,Alto
+2988,Linnell,886992893,97,F,9/10/2025,1,true,false,false,>4 horas,Ocasional,true,Primer hijo <30,No hijos,Alto
+2952,Mirella,347252047,81,F,9/10/2025,1,false,false,true,<3 horas,Ocasional,true,Primer hijo <30,Primer hijo >=30,Alto
+2364,Linnie,986638959,40,F,9/10/2025,1,false,false,true,>4 horas,Ocasional,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2118,Olin,366539423,103,M,9/10/2025,1,true,true,true,3-4 horas,Diario,false,No hijos,Primer hijo >=30,Alto
+2362,Lynne,255704538,137,F,9/10/2025,1,true,false,true,Ninguna,Nunca,true,Primer hijo <30,Primer hijo <30,Alto
+2173,Trescha,459704252,109,F,9/10/2025,1,false,true,false,Ninguna,Frecuente,false,Primer hijo <30,No hijos,Alto
+2985,Westley,930894417,144,M,9/10/2025,1,true,true,true,,Nunca,false,No hijos,Primer hijo <30,Moderado
+2784,Salem,350804224,75,M,9/10/2025,1,false,true,true,,Nunca,false,Primer hijo >=30,Primer hijo <30,Bajo
+2092,Marten,377669857,148,M,9/10/2025,1,false,false,false,>4 horas,Frecuente,false,Primer hijo <30,No hijos,Bajo
+2808,Russ,436431106,59,M,9/10/2025,1,false,false,false,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo <30,Moderado
+2000,Deane,599453851,126,M,9/10/2025,1,true,false,true,<3 horas,Diario,true,Primer hijo <30,Primer hijo <30,Moderado
+2516,Enrichetta,835939954,66,F,9/10/2025,1,,true,true,3-4 horas,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2690,Tyler,581865527,63,M,9/10/2025,1,false,false,true,<3 horas,Nunca,true,No hijos,No hijos,Bajo
+2816,Darcey,884033095,113,F,9/10/2025,1,true,true,true,<3 horas,Nunca,true,Primer hijo >=30,No hijos,Moderado
+2280,Lenka,750054808,73,F,9/10/2025,1,false,true,false,>4 horas,Nunca,true,Primer hijo >=30,No hijos,Bajo
+2097,Biddy,845151903,142,F,9/10/2025,1,true,false,true,>4 horas,Frecuente,false,Primer hijo <30,No hijos,Bajo
+2609,Dana,840271872,13,F,9/10/2025,1,false,false,true,<3 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Bajo
+2605,Madalena,323110994,126,F,9/10/2025,1,,true,false,3-4 horas,Nunca,false,No hijos,No hijos,Bajo
+2209,Rhianon,567497872,124,F,9/10/2025,1,false,true,true,3-4 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2872,Rudie,700576502,134,M,9/10/2025,1,true,false,true,>4 horas,Nunca,true,No hijos,Primer hijo <30,Moderado
+2880,Hyacintha,905132941,59,F,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,,Primer hijo >=30,Alto
+2048,Aloisia,406150565,5,F,9/10/2025,1,false,false,true,3-4 horas,Ocasional,true,,Primer hijo <30,Alto
+2299,Juliane,308574001,27,F,9/10/2025,1,false,false,true,>4 horas,Ocasional,false,Primer hijo <30,Primer hijo >=30,Alto
+2369,Jerrie,376747761,96,M,9/10/2025,1,true,false,true,<3 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Bajo
+2030,Nanni,157181109,110,F,9/10/2025,1,false,true,false,<3 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Moderado
+2266,Jordan,874468001,148,F,9/10/2025,1,true,true,false,<3 horas,Nunca,false,No hijos,Primer hijo >=30,Moderado
+2513,Quentin,147667668,50,M,9/10/2025,1,false,false,true,Ninguna,Nunca,false,No hijos,No hijos,Alto
+2108,Felipe,358139007,,M,9/10/2025,1,false,true,false,<3 horas,Frecuente,true,Primer hijo >=30,No hijos,Alto
+2439,Gabriel,158720220,118,M,9/10/2025,1,true,true,false,Ninguna,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2787,Evvy,778662238,99,F,9/10/2025,1,true,false,false,Ninguna,Frecuente,true,No hijos,Primer hijo >=30,Alto
+2460,Kendell,491374665,88,M,9/10/2025,1,true,false,true,<3 horas,Diario,false,,Primer hijo <30,Bajo
+2558,Cymbre,868561278,102,F,9/10/2025,1,false,true,false,<3 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Alto
+2140,Ginni,990289745,41,F,9/10/2025,1,false,false,false,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2041,Janina,167117285,61,F,9/10/2025,1,true,true,true,>4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Alto
+2934,Bastian,101331876,,M,9/10/2025,1,true,false,true,Ninguna,Diario,false,Primer hijo <30,Primer hijo <30,Moderado
+2077,Trula,251473580,19,F,9/10/2025,1,true,true,true,Ninguna,Diario,true,Primer hijo >=30,No hijos,Alto
+2540,Maddy,234321553,19,M,9/10/2025,1,false,true,true,>4 horas,Ocasional,true,,Primer hijo <30,Alto
+2032,Goddard,342609015,30,M,9/10/2025,1,true,false,true,Ninguna,Diario,true,No hijos,No hijos,Alto
+2243,Catlee,726506458,109,F,9/10/2025,1,true,false,false,Ninguna,Nunca,true,No hijos,No hijos,Alto
+2433,Cahra,433862808,17,F,9/10/2025,1,true,true,false,3-4 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Alto
+2676,Carl,116119901,75,M,9/10/2025,1,false,true,true,3-4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Alto
+2723,Selina,857674625,19,F,9/10/2025,1,false,false,true,>4 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Bajo
+2736,Ki,758841800,92,F,9/10/2025,1,true,true,false,<3 horas,Ocasional,true,No hijos,Primer hijo >=30,Alto
+2442,Carmon,399799856,54,F,9/10/2025,1,true,true,true,,Frecuente,true,No hijos,Primer hijo <30,Bajo
+2458,Kristos,574230465,52,M,9/10/2025,1,true,true,true,<3 horas,Nunca,true,Primer hijo <30,Primer hijo >=30,Moderado
+2398,Hieronymus,934387217,66,M,9/10/2025,1,false,false,true,>4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Moderado
+2556,Donaugh,242493440,65,M,9/10/2025,1,true,true,false,Ninguna,Frecuente,true,Primer hijo <30,No hijos,Alto
+2258,Bald,452866020,75,M,9/10/2025,1,true,true,true,<3 horas,Frecuente,true,Primer hijo >=30,Primer hijo <30,Moderado
+2498,Ellerey,953919847,9,M,9/10/2025,1,false,false,false,,Ocasional,true,No hijos,No hijos,Alto
+2069,Ardenia,853650485,57,F,9/10/2025,1,false,true,true,Ninguna,Ocasional,false,Primer hijo <30,Primer hijo <30,Alto
+2958,Rikki,730240790,79,F,9/10/2025,1,true,false,false,>4 horas,Ocasional,true,Primer hijo <30,No hijos,Moderado
+2395,Nefen,205722895,63,M,9/10/2025,1,true,true,false,>4 horas,Ocasional,false,Primer hijo <30,Primer hijo >=30,Alto
+2399,Edik,351914944,32,M,9/10/2025,1,true,false,false,,Diario,true,No hijos,No hijos,Bajo
+2155,Milena,538308549,92,F,9/10/2025,1,true,false,false,>4 horas,Diario,true,Primer hijo <30,No hijos,Alto
+2085,Jerry,875795633,92,F,9/10/2025,1,false,false,false,,Frecuente,true,No hijos,No hijos,Moderado
+2139,Reiko,189640924,99,F,9/10/2025,1,true,true,true,>4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Moderado
+2872,Mame,976484349,11,F,9/10/2025,1,true,true,false,Ninguna,Ocasional,true,Primer hijo <30,Primer hijo >=30,Bajo
+2149,Rollins,146558779,145,M,9/10/2025,1,false,true,true,>4 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Alto
+2858,Garold,759133516,102,M,9/10/2025,1,false,true,false,3-4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Bajo
+2166,Hadlee,632315990,70,M,9/10/2025,1,true,false,true,<3 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Bajo
+2929,Olly,756512082,149,M,9/10/2025,1,false,true,true,,Diario,true,Primer hijo <30,Primer hijo <30,Moderado
+2738,Verna,507091287,106,F,9/10/2025,1,false,false,true,3-4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Moderado
+2095,Hewe,567179674,102,M,9/10/2025,1,false,true,false,<3 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2174,Roze,948716331,75,F,9/10/2025,1,true,false,true,,Nunca,false,Primer hijo <30,No hijos,Bajo
+2154,Jorgan,209023713,89,M,9/10/2025,1,false,false,true,<3 horas,Frecuente,true,Primer hijo >=30,Primer hijo <30,Alto
+2526,Regan,802408434,60,F,9/10/2025,1,true,true,true,3-4 horas,Ocasional,true,No hijos,No hijos,Moderado
+2035,Jecho,588508222,119,M,9/10/2025,1,true,true,false,<3 horas,Frecuente,false,No hijos,Primer hijo <30,Bajo
+2018,Willie,399680523,18,F,9/10/2025,1,false,false,true,<3 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Alto
+2296,Verney,115573124,31,M,9/10/2025,1,true,true,true,,Frecuente,true,No hijos,No hijos,Moderado
+2034,Luke,435571493,88,M,9/10/2025,1,true,false,false,<3 horas,Frecuente,true,Primer hijo <30,No hijos,Moderado
+2903,Chucho,950670982,3,M,9/10/2025,1,true,false,true,<3 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Moderado
+2903,Jed,440882498,124,M,9/10/2025,1,false,true,true,<3 horas,Nunca,true,Primer hijo >=30,Primer hijo <30,Moderado
+2579,Rutger,699609796,85,M,9/10/2025,1,true,false,false,Ninguna,Diario,true,Primer hijo <30,Primer hijo <30,Moderado
+2120,Jerry,535009319,24,F,9/10/2025,1,true,true,true,3-4 horas,Nunca,false,Primer hijo >=30,No hijos,Moderado
+2659,Sonia,461726364,120,F,9/10/2025,1,false,false,false,Ninguna,Ocasional,true,Primer hijo >=30,No hijos,Alto
+2409,Erhart,194712832,13,M,9/10/2025,1,false,false,true,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Bajo
+2539,Joli,178131953,119,F,9/10/2025,1,false,true,true,>4 horas,Frecuente,true,,Primer hijo <30,Bajo
+2936,Noelyn,928108284,4,F,9/10/2025,1,true,false,true,Ninguna,Diario,false,Primer hijo <30,Primer hijo <30,Moderado
+2632,Engracia,106936736,105,F,9/10/2025,1,false,false,true,3-4 horas,Ocasional,false,No hijos,Primer hijo <30,Moderado
+2807,Myra,146768139,1,F,9/10/2025,1,,false,true,Ninguna,Diario,true,Primer hijo <30,Primer hijo >=30,Bajo
+2857,Gabriel,219325535,74,M,9/10/2025,1,false,true,true,3-4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2666,Willis,540112106,122,M,9/10/2025,1,false,true,false,Ninguna,Frecuente,true,No hijos,Primer hijo >=30,Alto
+2721,Hillary,761735257,120,F,9/10/2025,1,true,false,true,3-4 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Alto
+2784,Cara,300254315,20,F,9/10/2025,1,false,false,true,Ninguna,Diario,true,,Primer hijo >=30,Alto
+2799,Sukey,315137089,143,F,9/10/2025,1,false,true,true,3-4 horas,Ocasional,false,No hijos,Primer hijo >=30,Bajo
+2056,Adair,907319226,118,M,9/10/2025,1,true,true,true,Ninguna,Ocasional,true,Primer hijo <30,Primer hijo <30,Bajo
+2164,Fabiano,542856782,61,M,9/10/2025,1,true,false,false,3-4 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Bajo
+2277,Fifi,802898604,49,F,9/10/2025,1,false,true,true,3-4 horas,Nunca,false,No hijos,Primer hijo <30,Moderado
+2596,Ulberto,144087017,65,M,9/10/2025,1,true,true,true,<3 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Bajo
+2531,Constantin,981162398,52,M,9/10/2025,1,false,false,false,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Bajo
+2788,Rees,619681306,40,M,9/10/2025,1,false,false,true,>4 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Moderado
+2283,Haze,643787694,112,M,9/10/2025,1,false,true,false,,Frecuente,false,,Primer hijo >=30,Alto
+2084,Staffard,152087719,7,M,9/10/2025,1,true,true,false,3-4 horas,Diario,true,Primer hijo <30,Primer hijo <30,Moderado
+2765,Caryn,639809357,107,F,9/10/2025,1,false,false,true,<3 horas,Ocasional,true,No hijos,No hijos,Moderado
+2868,Hanni,332890048,137,F,9/10/2025,1,false,false,true,<3 horas,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2377,Rube,924691892,143,M,9/10/2025,1,false,false,true,>4 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Moderado
+2958,Abrahan,699503235,28,M,9/10/2025,1,true,false,true,,Ocasional,true,Primer hijo <30,Primer hijo <30,Moderado
+2686,Annabelle,658727757,51,F,9/10/2025,1,true,true,true,>4 horas,Ocasional,false,Primer hijo <30,Primer hijo >=30,Moderado
+2111,Shantee,358705197,98,F,9/10/2025,1,true,false,false,<3 horas,Ocasional,false,No hijos,Primer hijo <30,Moderado
+2422,Collen,994140925,67,F,9/10/2025,1,false,true,false,Ninguna,Ocasional,false,Primer hijo <30,Primer hijo <30,Alto
+2852,Joeann,443762226,138,F,9/10/2025,1,true,true,false,3-4 horas,Frecuente,false,Primer hijo <30,No hijos,Moderado
+2406,Rodrigo,778957682,31,M,9/10/2025,1,false,true,true,3-4 horas,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2744,Tammy,581645964,,F,9/10/2025,1,false,true,true,<3 horas,Nunca,true,Primer hijo <30,Primer hijo <30,Bajo
+2814,Amerigo,402549504,11,M,9/10/2025,1,true,true,false,<3 horas,Ocasional,false,Primer hijo <30,Primer hijo <30,Moderado
+2022,Trevor,733320473,124,M,9/10/2025,1,false,true,false,3-4 horas,Nunca,false,No hijos,Primer hijo >=30,Alto
+2862,Jourdain,232964320,149,M,9/10/2025,1,true,false,true,3-4 horas,Ocasional,false,Primer hijo <30,Primer hijo <30,Moderado
+2478,Willard,531565574,14,M,9/10/2025,1,false,true,false,<3 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Alto
+2591,Dusty,598422336,136,F,9/10/2025,1,true,false,false,3-4 horas,Ocasional,false,No hijos,No hijos,Moderado
+2342,Gawain,778831458,56,M,9/10/2025,1,false,true,true,<3 horas,Nunca,false,Primer hijo <30,Primer hijo >=30,Bajo
+2075,Jehu,241918151,29,M,9/10/2025,1,true,true,true,Ninguna,Diario,false,Primer hijo >=30,No hijos,Moderado
+2828,Carr,252923974,84,M,9/10/2025,1,true,true,false,>4 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Alto
+2867,Romy,387221504,129,F,9/10/2025,1,true,false,false,,Ocasional,true,No hijos,No hijos,Bajo
+2302,Nappie,802137410,62,M,9/10/2025,1,true,true,true,3-4 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Alto
+2254,Tasha,877041472,42,F,9/10/2025,1,true,true,true,3-4 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Bajo
+2192,Caritta,750163437,53,F,9/10/2025,1,true,true,false,<3 horas,Diario,false,No hijos,Primer hijo <30,Bajo
+2452,Hewett,968014368,6,M,9/10/2025,1,true,false,false,3-4 horas,Diario,false,Primer hijo <30,Primer hijo <30,Bajo
+2416,Harlen,269394164,141,M,9/10/2025,1,,true,true,<3 horas,Ocasional,false,No hijos,Primer hijo <30,Moderado
+2190,Juliet,807863147,96,F,9/10/2025,1,false,true,false,3-4 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Bajo
+2857,Allyson,129323692,85,F,9/10/2025,1,true,false,true,,Ocasional,false,,Primer hijo <30,Moderado
+2211,Arley,158498565,13,M,9/10/2025,1,true,true,false,3-4 horas,Ocasional,false,No hijos,Primer hijo >=30,Alto
+2146,Lynett,828860964,120,F,9/10/2025,1,true,false,false,<3 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Alto
+2787,Philis,529869487,28,F,9/10/2025,1,false,true,false,Ninguna,Diario,false,Primer hijo <30,No hijos,Moderado
+2281,Katerine,207363298,128,F,9/10/2025,1,true,true,true,<3 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Alto
+2739,Alwin,323820921,44,M,9/10/2025,1,false,false,true,<3 horas,Diario,false,Primer hijo <30,No hijos,Moderado
+2732,Haley,980722556,132,M,9/10/2025,1,true,false,false,<3 horas,Ocasional,true,No hijos,No hijos,Alto
+2314,Felecia,424529081,126,F,9/10/2025,1,true,true,false,Ninguna,Frecuente,false,No hijos,Primer hijo <30,Alto
+2047,Brnaby,747039942,116,M,9/10/2025,1,true,true,true,<3 horas,Diario,true,No hijos,Primer hijo <30,Alto
+2517,Aluin,520746749,69,M,9/10/2025,1,true,true,false,3-4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2759,Stella,350052351,96,F,9/10/2025,1,false,true,true,<3 horas,Ocasional,false,,Primer hijo <30,Bajo
+2834,Karena,953152667,146,F,9/10/2025,1,true,false,true,>4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Moderado
+2887,Dick,416960400,79,M,9/10/2025,1,false,false,true,3-4 horas,Diario,false,No hijos,Primer hijo <30,Bajo
+2192,Lucia,292887434,27,F,9/10/2025,1,true,true,false,3-4 horas,Nunca,false,No hijos,Primer hijo >=30,Alto
+2498,Gabriela,268078292,91,F,9/10/2025,1,true,true,true,<3 horas,Ocasional,true,No hijos,Primer hijo >=30,Alto
+2117,Bondy,874476118,129,M,9/10/2025,1,false,false,false,3-4 horas,Nunca,true,No hijos,No hijos,Bajo
+2815,Douglas,966977250,132,M,9/10/2025,1,true,true,true,<3 horas,Frecuente,false,No hijos,No hijos,Alto
+2681,Andie,641644721,50,M,9/10/2025,1,false,true,true,>4 horas,Frecuente,false,Primer hijo <30,No hijos,Bajo
+2752,Emmett,441686418,58,M,9/10/2025,1,false,true,true,Ninguna,Ocasional,false,No hijos,Primer hijo <30,Bajo
+2541,Mallory,924940757,132,M,9/10/2025,1,false,true,true,>4 horas,Nunca,true,No hijos,Primer hijo >=30,Alto
+2006,Tabatha,533926934,26,F,9/10/2025,1,false,false,false,3-4 horas,Diario,false,,Primer hijo >=30,Alto
+2460,Lincoln,508837747,128,M,9/10/2025,1,false,true,false,3-4 horas,Nunca,false,No hijos,No hijos,Moderado
+2130,Otis,657436140,26,M,9/10/2025,1,true,true,false,>4 horas,Nunca,true,Primer hijo >=30,Primer hijo <30,Bajo
+2843,Flori,982470359,5,F,9/10/2025,1,true,false,false,Ninguna,Frecuente,true,No hijos,Primer hijo >=30,Moderado
+2093,Margarethe,537509881,118,F,9/10/2025,1,true,false,false,Ninguna,Nunca,true,No hijos,Primer hijo >=30,Alto
+2264,Flossi,199824575,10,F,9/10/2025,1,false,true,false,3-4 horas,Diario,true,,Primer hijo >=30,Moderado
+2982,Ulric,815902496,93,M,9/10/2025,1,false,true,false,Ninguna,Frecuente,false,Primer hijo <30,Primer hijo <30,Alto
+2891,Francisco,841120347,3,M,9/10/2025,1,true,true,true,Ninguna,Nunca,true,No hijos,No hijos,Bajo
+2477,Britt,224497125,47,M,9/10/2025,1,false,false,false,>4 horas,Nunca,false,No hijos,Primer hijo >=30,Alto
+2452,Layney,512584069,95,F,9/10/2025,1,true,false,true,>4 horas,Nunca,false,,No hijos,Bajo
+2501,Charo,953415666,87,F,9/10/2025,1,false,true,true,Ninguna,Diario,true,No hijos,Primer hijo <30,Moderado
+2013,Joellen,920798732,6,F,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,No hijos,Primer hijo <30,Alto
+2938,Tybalt,568821940,139,M,9/10/2025,1,false,false,false,>4 horas,Nunca,true,No hijos,Primer hijo <30,Bajo
+2564,Shaine,914617465,58,M,9/10/2025,1,false,true,true,,Diario,true,Primer hijo >=30,Primer hijo <30,Moderado
+2522,Pete,120267790,76,M,9/10/2025,1,true,true,true,3-4 horas,Diario,false,Primer hijo <30,No hijos,Bajo
+2058,Morten,762706910,133,M,9/10/2025,1,false,false,true,,Nunca,true,Primer hijo >=30,Primer hijo >=30,Alto
+2063,Cornelius,958419847,52,M,9/10/2025,1,false,true,true,<3 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Bajo
+2950,Inez,817769992,78,F,9/10/2025,1,false,true,true,,Diario,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2915,Shanon,401797629,,F,9/10/2025,1,false,true,true,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2782,Claudio,683047074,,M,9/10/2025,1,false,true,false,<3 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Alto
+2617,Ravid,401357742,65,M,9/10/2025,1,false,false,false,>4 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2905,Ange,422828325,13,M,9/10/2025,1,false,false,true,3-4 horas,Ocasional,true,,Primer hijo >=30,Bajo
+2150,Amandy,515535483,80,F,9/10/2025,1,true,false,true,<3 horas,Diario,false,No hijos,No hijos,Alto
+2726,Leesa,550620042,33,F,9/10/2025,1,false,true,true,>4 horas,Ocasional,false,Primer hijo >=30,No hijos,Alto
+2801,Natale,267770535,10,M,9/10/2025,1,true,false,false,3-4 horas,Ocasional,true,Primer hijo <30,No hijos,Alto
+2516,Bendix,657390383,33,M,9/10/2025,1,,true,false,<3 horas,Ocasional,true,No hijos,No hijos,Bajo
+2087,Pasquale,971954438,38,M,9/10/2025,1,true,true,false,<3 horas,Frecuente,false,No hijos,Primer hijo >=30,Bajo
+2624,Oona,311859714,118,F,9/10/2025,1,false,false,true,>4 horas,Ocasional,true,No hijos,Primer hijo >=30,Moderado
+2835,Patton,493806238,127,M,9/10/2025,1,false,false,true,3-4 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Alto
+2154,Raphael,234661255,53,M,9/10/2025,1,true,false,true,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo >=30,Alto
+2239,Danni,239867265,33,F,9/10/2025,1,false,false,false,<3 horas,Nunca,false,,Primer hijo <30,Moderado
+2386,Desiree,772497455,47,F,9/10/2025,1,true,false,true,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Bajo
+2473,Alec,969772345,146,M,9/10/2025,1,true,true,true,,Nunca,true,Primer hijo <30,Primer hijo <30,Bajo
+2463,Andree,368408578,138,F,9/10/2025,1,false,false,false,3-4 horas,Frecuente,true,Primer hijo >=30,Primer hijo <30,Bajo
+2610,Brennen,738120361,142,M,9/10/2025,1,true,false,false,,Nunca,true,Primer hijo >=30,No hijos,Moderado
+2118,Alejandro,700169937,5,M,9/10/2025,1,true,false,true,3-4 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2911,Tiff,508177365,43,F,9/10/2025,1,false,true,false,Ninguna,Ocasional,true,Primer hijo >=30,Primer hijo <30,Moderado
+2296,Eldon,989772885,32,M,9/10/2025,1,false,true,true,,Nunca,true,Primer hijo >=30,No hijos,Bajo
+2332,Tamqrah,640144403,12,F,9/10/2025,1,true,true,false,Ninguna,Nunca,false,No hijos,Primer hijo <30,Alto
+2186,Cariotta,257502913,28,F,9/10/2025,1,false,false,true,<3 horas,Ocasional,true,,No hijos,Alto
+2121,Bing,838955932,111,M,9/10/2025,1,false,true,false,3-4 horas,Nunca,true,No hijos,Primer hijo <30,Alto
+2251,Jacob,914122173,91,M,9/10/2025,1,false,true,true,Ninguna,Diario,true,Primer hijo <30,Primer hijo >=30,Moderado
+2654,Mohandas,378117618,75,M,9/10/2025,1,true,true,false,>4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Alto
+2803,Salomon,495210449,54,M,9/10/2025,1,,true,true,Ninguna,Nunca,true,Primer hijo <30,Primer hijo >=30,Alto
+2589,Jonathan,247533646,133,M,9/10/2025,1,false,true,true,<3 horas,Ocasional,false,Primer hijo <30,Primer hijo <30,Moderado
+2131,Alexandrina,793534183,21,F,9/10/2025,1,false,false,true,<3 horas,Frecuente,false,,Primer hijo <30,Alto
+2363,Arny,922424747,99,M,9/10/2025,1,false,false,false,3-4 horas,Frecuente,false,No hijos,Primer hijo <30,Alto
+2204,Luelle,874221530,69,F,9/10/2025,1,false,false,false,Ninguna,Frecuente,true,No hijos,No hijos,Alto
+2213,Raddie,467661608,31,M,9/10/2025,1,false,false,true,,Ocasional,false,No hijos,Primer hijo <30,Alto
+2374,Andrea,304699480,1,F,9/10/2025,1,true,true,false,>4 horas,Frecuente,true,Primer hijo <30,No hijos,Bajo
+2440,Leah,399018469,72,F,9/10/2025,1,true,false,false,3-4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Alto
+2843,Zaccaria,966274055,101,M,9/10/2025,1,false,false,true,Ninguna,Diario,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2410,Alayne,262459502,70,F,9/10/2025,1,true,true,false,<3 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2146,Henri,662602053,104,M,9/10/2025,1,false,false,true,>4 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Bajo
+2530,Emmery,564973900,65,M,9/10/2025,1,true,false,false,<3 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Moderado
+2085,Tally,418951380,112,F,9/10/2025,1,false,false,false,Ninguna,Ocasional,true,No hijos,No hijos,Alto
+2729,Winfred,362501588,25,M,9/10/2025,1,true,true,true,,Ocasional,false,No hijos,Primer hijo <30,Moderado
+2198,Ruthanne,449262153,81,F,9/10/2025,1,false,true,true,>4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Bajo
+2570,Silvie,233355700,,F,9/10/2025,1,false,false,true,<3 horas,Ocasional,false,No hijos,No hijos,Alto
+2706,Florentia,172401638,59,F,9/10/2025,1,true,true,true,3-4 horas,Ocasional,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2425,Chicky,418996027,113,F,9/10/2025,1,false,false,false,>4 horas,Diario,true,No hijos,Primer hijo >=30,Moderado
+2900,Cherish,132638611,148,F,9/10/2025,1,true,true,true,Ninguna,Ocasional,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2164,Deck,714974355,118,M,9/10/2025,1,false,true,true,>4 horas,Ocasional,false,,Primer hijo <30,Bajo
+2148,Jonis,157414803,62,F,9/10/2025,1,false,true,false,>4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Alto
+2320,Layne,865000412,134,F,9/10/2025,1,false,true,true,>4 horas,Frecuente,true,No hijos,Primer hijo >=30,Moderado
+2149,Caria,193970278,41,F,9/10/2025,1,false,false,false,>4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2735,Janel,168283626,79,F,9/10/2025,1,true,false,true,>4 horas,Ocasional,true,Primer hijo >=30,No hijos,Bajo
+2431,Edi,245063119,98,F,9/10/2025,1,true,false,true,Ninguna,Ocasional,true,No hijos,Primer hijo <30,Alto
+2126,Phyllida,543518684,49,F,9/10/2025,1,true,true,true,Ninguna,Nunca,true,,Primer hijo <30,Alto
+2981,Percy,183004219,78,M,9/10/2025,1,false,false,true,>4 horas,Ocasional,false,Primer hijo <30,Primer hijo >=30,Alto
+2308,Lenka,760864299,150,F,9/10/2025,1,false,true,true,Ninguna,Nunca,true,Primer hijo >=30,Primer hijo <30,Alto
+2412,Antonino,367734642,70,M,9/10/2025,1,false,true,true,<3 horas,Diario,false,Primer hijo <30,Primer hijo <30,Bajo
+2858,Shep,873423518,,M,9/10/2025,1,false,true,false,3-4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Bajo
+2128,Quinn,608125555,72,M,9/10/2025,1,true,true,true,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Bajo
+2522,Stanton,353397952,,M,9/10/2025,1,false,false,false,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2517,Nicoline,960127083,97,F,9/10/2025,1,true,true,true,<3 horas,Ocasional,false,No hijos,Primer hijo >=30,Bajo
+2332,Carroll,791983772,58,F,9/10/2025,1,true,false,false,3-4 horas,Diario,true,Primer hijo >=30,No hijos,Moderado
+2787,Gypsy,944935851,60,F,9/10/2025,1,false,false,false,Ninguna,Diario,true,Primer hijo >=30,No hijos,Bajo
+2651,Jo,723353405,74,M,9/10/2025,1,true,false,false,>4 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Moderado
+2151,Meta,288876287,73,F,9/10/2025,1,,false,true,3-4 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2170,Nicki,885936370,125,F,9/10/2025,1,true,true,true,3-4 horas,Diario,true,Primer hijo <30,Primer hijo <30,Bajo
+2866,Gabie,960098114,,F,9/10/2025,1,false,false,false,<3 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Alto
+2671,Lenka,522257998,13,F,9/10/2025,1,true,false,false,>4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Alto
+2536,Alison,729080082,94,F,9/10/2025,1,false,true,false,,Diario,true,Primer hijo <30,Primer hijo <30,Moderado
+2650,Holly-anne,288888511,55,F,9/10/2025,1,false,false,true,,Nunca,true,No hijos,No hijos,Moderado
+2709,Ernie,379650397,59,M,9/10/2025,1,false,true,false,>4 horas,Frecuente,false,No hijos,No hijos,Bajo
+2478,Nadya,316458444,93,F,9/10/2025,1,,false,true,<3 horas,Diario,true,Primer hijo <30,No hijos,Alto
+2972,Nataline,394517846,85,F,9/10/2025,1,true,true,true,>4 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Alto
+2433,Loise,873915294,133,F,9/10/2025,1,true,false,false,,Frecuente,true,Primer hijo >=30,No hijos,Moderado
+2064,Blancha,928396785,25,F,9/10/2025,1,false,true,false,<3 horas,Diario,true,No hijos,Primer hijo <30,Moderado
+2923,Kirsti,297680938,13,F,9/10/2025,1,true,true,true,,Diario,false,Primer hijo >=30,Primer hijo <30,Alto
+2624,Aloin,473964164,17,M,9/10/2025,1,false,false,false,>4 horas,Diario,true,Primer hijo <30,No hijos,Alto
+2972,Shannon,420447716,135,M,9/10/2025,1,true,false,false,<3 horas,Diario,true,Primer hijo <30,No hijos,Bajo
+2325,Lizabeth,477936323,32,F,9/10/2025,1,false,false,false,Ninguna,Nunca,true,No hijos,No hijos,Alto
+2077,Teodorico,826190252,125,M,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,Primer hijo <30,No hijos,Moderado
+2939,Joana,410221385,95,F,9/10/2025,1,false,false,false,3-4 horas,Nunca,true,Primer hijo <30,No hijos,Moderado
+2762,Winny,929668842,4,F,9/10/2025,1,false,false,true,<3 horas,Diario,true,Primer hijo <30,Primer hijo <30,Moderado
+2614,Fletch,145574355,142,M,9/10/2025,1,false,true,true,>4 horas,Ocasional,true,Primer hijo >=30,Primer hijo <30,Moderado
+2961,Sibeal,732987462,14,F,9/10/2025,1,false,false,false,Ninguna,Diario,false,No hijos,Primer hijo <30,Moderado
+2032,Lindsay,708620190,,M,9/10/2025,1,true,false,false,>4 horas,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Alto
+2451,Consalve,198224273,74,M,9/10/2025,1,false,false,true,>4 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Alto
+2761,Filippa,950911162,44,F,9/10/2025,1,false,false,false,Ninguna,Frecuente,false,Primer hijo <30,Primer hijo <30,Moderado
+2759,Tani,939045629,32,F,9/10/2025,1,true,false,true,Ninguna,Ocasional,false,Primer hijo <30,Primer hijo <30,Bajo
+2619,Jackson,609622789,134,M,9/10/2025,1,true,false,false,Ninguna,Nunca,false,Primer hijo <30,Primer hijo <30,Moderado
+2715,Des,547303959,148,M,9/10/2025,1,true,false,false,>4 horas,Diario,true,Primer hijo >=30,No hijos,Bajo
+2496,Ailey,334123276,59,F,9/10/2025,1,true,false,false,Ninguna,Frecuente,false,No hijos,Primer hijo >=30,Bajo
+2828,Jamison,947235257,4,M,9/10/2025,1,false,false,false,3-4 horas,Frecuente,false,,Primer hijo <30,Bajo
+2049,Feodor,446048721,86,M,9/10/2025,1,false,false,false,3-4 horas,Nunca,false,Primer hijo >=30,No hijos,Moderado
+2885,Vivien,198402952,95,F,9/10/2025,1,true,true,true,3-4 horas,Nunca,true,No hijos,Primer hijo <30,Moderado
+2700,Wiatt,739797564,143,M,9/10/2025,1,false,true,true,Ninguna,Diario,true,No hijos,No hijos,Moderado
+2565,Jobye,363830807,70,F,9/10/2025,1,true,false,true,<3 horas,Frecuente,false,No hijos,Primer hijo <30,Bajo
+2157,Donall,179754053,132,M,9/10/2025,1,false,true,true,<3 horas,Nunca,false,Primer hijo <30,No hijos,Alto
+2133,Ceciley,827503132,34,F,9/10/2025,1,true,false,true,3-4 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2215,Rutter,458470788,95,M,9/10/2025,1,false,false,true,3-4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2054,Irvin,930119093,105,M,9/10/2025,1,true,false,false,<3 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Bajo
+2256,Geri,489197410,141,F,9/10/2025,1,true,false,false,<3 horas,Nunca,true,No hijos,No hijos,Moderado
+2349,Carl,258469738,2,M,9/10/2025,1,false,false,true,Ninguna,Nunca,false,No hijos,Primer hijo <30,Bajo
+2557,Emmeline,756198203,104,F,9/10/2025,1,true,false,false,3-4 horas,Ocasional,true,No hijos,Primer hijo >=30,Moderado
+2717,Trix,351176606,113,F,9/10/2025,1,false,false,false,<3 horas,Ocasional,false,Primer hijo <30,Primer hijo <30,Moderado
+2938,Julissa,196679831,57,F,9/10/2025,1,false,true,false,>4 horas,Frecuente,true,No hijos,Primer hijo <30,Bajo
+2545,Alissa,308641879,67,F,9/10/2025,1,false,true,false,Ninguna,Ocasional,true,Primer hijo >=30,Primer hijo <30,Bajo
+2246,Shandeigh,462684442,69,F,9/10/2025,1,false,false,true,>4 horas,Frecuente,false,No hijos,Primer hijo >=30,Bajo
+2818,Bryce,843124020,12,M,9/10/2025,1,true,true,true,<3 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Bajo
+2195,Dorey,381758727,11,M,9/10/2025,1,false,false,false,Ninguna,Frecuente,true,Primer hijo >=30,No hijos,Moderado
+2437,Gratiana,268524563,95,F,9/10/2025,1,false,false,false,3-4 horas,Ocasional,true,Primer hijo <30,No hijos,Bajo
+2034,Adriena,417326700,,F,9/10/2025,1,,false,false,3-4 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Alto
+2427,Brewer,649708384,82,M,9/10/2025,1,false,false,false,3-4 horas,Frecuente,false,No hijos,Primer hijo >=30,Moderado
+2066,Carol-jean,589006542,145,F,9/10/2025,1,false,false,false,<3 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2036,Pattie,973480560,129,F,9/10/2025,1,true,false,false,3-4 horas,Ocasional,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2083,Steven,536412841,59,M,9/10/2025,1,false,false,true,Ninguna,Diario,false,No hijos,No hijos,Alto
+2557,Kayne,166691179,117,M,9/10/2025,1,false,true,false,Ninguna,Diario,true,Primer hijo <30,No hijos,Alto
+2675,Waylan,369856137,,M,9/10/2025,1,true,false,false,>4 horas,Frecuente,true,Primer hijo >=30,No hijos,Bajo
+2701,Kean,864855289,39,M,9/10/2025,1,true,false,false,3-4 horas,Frecuente,false,No hijos,Primer hijo <30,Bajo
+2203,Jeanne,308560782,132,F,9/10/2025,1,false,false,false,3-4 horas,Nunca,false,Primer hijo <30,Primer hijo >=30,Bajo
+2766,Marwin,890916295,42,M,9/10/2025,1,false,true,false,3-4 horas,Nunca,true,Primer hijo >=30,No hijos,Alto
+2121,Bronnie,799449824,140,M,9/10/2025,1,true,false,false,3-4 horas,Diario,false,Primer hijo <30,No hijos,Alto
+2281,Nataniel,999755230,62,M,9/10/2025,1,true,false,false,3-4 horas,Frecuente,false,No hijos,No hijos,Moderado
+2669,Carroll,486198973,105,F,9/10/2025,1,false,false,false,3-4 horas,Diario,false,No hijos,Primer hijo <30,Alto
+2516,Theressa,952911890,86,F,9/10/2025,1,false,true,true,Ninguna,Frecuente,false,Primer hijo >=30,No hijos,Bajo
+2435,Oswald,569552563,11,M,9/10/2025,1,true,false,true,>4 horas,Frecuente,false,No hijos,Primer hijo >=30,Bajo
+2486,Melicent,437440987,25,F,9/10/2025,1,true,true,false,<3 horas,Ocasional,false,No hijos,Primer hijo <30,Moderado
+2514,Osmond,650798549,62,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo <30,Alto
+2488,Percy,848089704,78,M,9/10/2025,1,true,true,false,,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2856,Rochella,947335038,144,F,9/10/2025,1,true,true,true,Ninguna,Ocasional,false,Primer hijo <30,Primer hijo <30,Alto
+2586,Germain,784074646,126,M,9/10/2025,1,true,true,true,Ninguna,Nunca,true,Primer hijo >=30,No hijos,Bajo
+2533,Jenda,148145971,18,F,9/10/2025,1,false,true,false,,Nunca,true,Primer hijo <30,Primer hijo <30,Bajo
+2043,Aguie,986560353,73,M,9/10/2025,1,false,true,false,<3 horas,Nunca,false,,No hijos,Alto
+2428,Raimund,489421009,48,M,9/10/2025,1,true,false,false,>4 horas,Nunca,true,No hijos,Primer hijo <30,Alto
+2292,Simeon,135623933,,M,9/10/2025,1,false,false,false,3-4 horas,Frecuente,true,No hijos,Primer hijo >=30,Bajo
+2747,Grant,787854731,4,M,9/10/2025,1,false,true,false,Ninguna,Nunca,true,No hijos,Primer hijo >=30,Bajo
+2646,Montgomery,661438792,122,M,9/10/2025,1,false,false,false,>4 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Moderado
+2102,Marci,781458144,86,F,9/10/2025,1,true,true,true,3-4 horas,Frecuente,false,No hijos,Primer hijo >=30,Moderado
+2679,Pen,743200823,142,F,9/10/2025,1,true,false,true,<3 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2692,Wilmette,357144177,141,F,9/10/2025,1,true,true,true,Ninguna,Frecuente,true,No hijos,No hijos,Moderado
+2521,Armstrong,197161899,81,M,9/10/2025,1,true,false,true,<3 horas,Nunca,false,No hijos,Primer hijo >=30,Alto
+2623,Marcelline,178503015,57,F,9/10/2025,1,false,false,true,3-4 horas,Frecuente,false,No hijos,Primer hijo <30,Bajo
+2716,Marni,275975245,28,F,9/10/2025,1,false,true,false,>4 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Bajo
+2014,Shani,343661522,57,F,9/10/2025,1,false,false,true,Ninguna,Nunca,true,No hijos,Primer hijo <30,Moderado
+2537,Dav,485264146,113,M,9/10/2025,1,false,true,true,3-4 horas,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2472,Sinclair,812568510,5,M,9/10/2025,1,true,false,true,3-4 horas,Frecuente,true,Primer hijo <30,No hijos,Bajo
+2152,Rori,681739603,58,F,9/10/2025,1,true,true,true,,Diario,true,Primer hijo >=30,Primer hijo <30,Bajo
+2707,Fergus,340136860,92,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,false,Primer hijo <30,Primer hijo >=30,Moderado
+2494,Flory,300848665,120,F,9/10/2025,1,false,true,false,Ninguna,Ocasional,true,Primer hijo <30,Primer hijo >=30,Alto
+2857,Alene,861881567,149,F,9/10/2025,1,true,false,true,Ninguna,Nunca,false,Primer hijo <30,No hijos,Alto
+2370,Cathrine,805930857,105,F,9/10/2025,1,true,true,false,>4 horas,Diario,false,Primer hijo <30,No hijos,Moderado
+2465,Gasparo,261494771,35,M,9/10/2025,1,true,true,false,Ninguna,Frecuente,false,No hijos,Primer hijo >=30,Moderado
+2586,Waldemar,562923806,58,M,9/10/2025,1,true,false,true,>4 horas,Diario,false,No hijos,Primer hijo >=30,Alto
+2585,Gabey,551804781,58,F,9/10/2025,1,true,true,false,<3 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2917,Gregor,986584345,114,M,9/10/2025,1,false,true,false,>4 horas,Diario,false,Primer hijo <30,Primer hijo <30,Bajo
+2049,Land,797451758,55,M,9/10/2025,1,true,false,true,>4 horas,Ocasional,true,No hijos,Primer hijo >=30,Alto
+2869,Neall,709850959,24,M,9/10/2025,1,true,false,false,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo >=30,Alto
+2669,Callida,992707637,148,F,9/10/2025,1,true,true,true,Ninguna,Diario,true,Primer hijo <30,Primer hijo >=30,Moderado
+2447,Reinaldo,740632840,4,M,9/10/2025,1,false,false,false,Ninguna,Diario,true,Primer hijo >=30,Primer hijo >=30,Alto
+2111,Lawry,681334326,63,M,9/10/2025,1,false,true,true,3-4 horas,Frecuente,false,Primer hijo >=30,No hijos,Bajo
+2057,Oran,476516169,75,M,9/10/2025,1,false,true,true,<3 horas,Nunca,true,Primer hijo <30,Primer hijo >=30,Alto
+2709,Seana,199257025,,F,9/10/2025,1,false,false,false,Ninguna,Diario,true,Primer hijo >=30,Primer hijo <30,Moderado
+2495,Hermon,363192100,117,M,9/10/2025,1,true,true,false,3-4 horas,Frecuente,false,Primer hijo <30,No hijos,Moderado
+2523,Kristien,571724090,56,F,9/10/2025,1,true,true,true,3-4 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Moderado
+2421,Ingelbert,782252699,76,M,9/10/2025,1,false,true,false,<3 horas,Frecuente,true,Primer hijo >=30,No hijos,Moderado
+2311,Kimberlee,246029749,122,F,9/10/2025,1,false,false,true,3-4 horas,Frecuente,true,Primer hijo <30,No hijos,Moderado
+2200,Michel,203203853,27,F,9/10/2025,1,false,false,false,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Alto
+2337,Clerc,644608155,133,M,9/10/2025,1,false,true,false,<3 horas,Diario,true,No hijos,Primer hijo >=30,Moderado
+2619,Cal,748192655,,F,9/10/2025,1,false,false,false,>4 horas,Diario,false,No hijos,Primer hijo <30,Alto
+2233,Domenic,528629595,97,M,9/10/2025,1,true,false,true,3-4 horas,Nunca,true,Primer hijo >=30,Primer hijo <30,Moderado
+2443,Frieda,112877564,106,F,9/10/2025,1,true,false,false,<3 horas,Nunca,false,Primer hijo <30,Primer hijo >=30,Bajo
+2638,Fancie,909742469,24,F,9/10/2025,1,false,true,true,Ninguna,Ocasional,true,No hijos,No hijos,Alto
+2806,Murdock,444366755,79,M,9/10/2025,1,false,true,true,Ninguna,Diario,true,No hijos,Primer hijo <30,Alto
+2729,Marcella,426644611,21,F,9/10/2025,1,true,true,true,>4 horas,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2666,Paloma,306115711,106,F,9/10/2025,1,true,false,true,Ninguna,Nunca,false,No hijos,No hijos,Alto
+2118,Aurilia,142203520,4,F,9/10/2025,1,false,false,true,>4 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2985,Stearn,302441355,45,M,9/10/2025,1,false,false,true,Ninguna,Nunca,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2864,Myrtle,920196245,137,F,9/10/2025,1,true,true,true,<3 horas,Ocasional,true,Primer hijo >=30,Primer hijo <30,Alto
+2636,Garreth,993514636,51,M,9/10/2025,1,true,true,false,>4 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Moderado
+2274,Kaile,139755955,81,F,9/10/2025,1,false,false,true,<3 horas,Ocasional,true,Primer hijo >=30,No hijos,Alto
+2703,Kylie,556062299,136,M,9/10/2025,1,true,true,false,<3 horas,Nunca,false,No hijos,Primer hijo <30,Moderado
+2026,Noelle,513149455,2,F,9/10/2025,1,true,true,false,Ninguna,Diario,true,No hijos,Primer hijo <30,Alto
+2733,Hollis,450430793,13,M,9/10/2025,1,true,false,true,<3 horas,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2371,Kyle,692621462,31,M,9/10/2025,1,false,true,false,3-4 horas,Diario,false,No hijos,Primer hijo <30,Moderado
+2823,Candie,745685980,98,F,9/10/2025,1,false,true,false,Ninguna,Frecuente,true,Primer hijo >=30,No hijos,Bajo
+2380,Frieda,314171377,134,F,9/10/2025,1,true,false,true,3-4 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Moderado
+2252,Niles,835452669,36,M,9/10/2025,1,false,false,false,>4 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Alto
+2199,Sonni,706122627,132,F,9/10/2025,1,true,true,true,,Frecuente,true,Primer hijo <30,No hijos,Alto
+2724,Maure,738287049,129,F,9/10/2025,1,true,false,false,<3 horas,Frecuente,true,Primer hijo >=30,Primer hijo <30,Moderado
+2313,Levey,905331477,120,M,9/10/2025,1,true,false,false,3-4 horas,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2428,Jefferson,458124152,19,M,9/10/2025,1,false,true,true,Ninguna,Diario,false,Primer hijo <30,No hijos,Moderado
+2259,Leopold,156896093,125,M,9/10/2025,1,true,false,true,<3 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Bajo
+2836,Meggie,759664748,8,F,9/10/2025,1,false,false,true,Ninguna,Ocasional,true,,Primer hijo >=30,Moderado
+2902,Ignaz,689045970,55,M,9/10/2025,1,false,true,true,Ninguna,Diario,true,No hijos,No hijos,Bajo
+2213,Annmarie,899499603,62,F,9/10/2025,1,false,true,false,,Diario,true,Primer hijo <30,Primer hijo >=30,Bajo
+2947,Vidovik,965430668,144,M,9/10/2025,1,true,true,true,3-4 horas,Frecuente,false,Primer hijo >=30,No hijos,Bajo
+2263,Morey,160869676,97,M,9/10/2025,1,true,false,true,<3 horas,Frecuente,true,,Primer hijo >=30,Alto
+2983,Bennett,770662987,143,M,9/10/2025,1,false,true,true,3-4 horas,Ocasional,true,No hijos,No hijos,Alto
+2396,Berny,516385112,43,F,9/10/2025,1,true,true,false,>4 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2660,Donni,183104464,76,F,9/10/2025,1,false,false,true,3-4 horas,Nunca,true,No hijos,Primer hijo <30,Alto
+2726,Quint,880431285,38,M,9/10/2025,1,false,true,false,Ninguna,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2462,Beltran,330066066,45,M,9/10/2025,1,true,false,false,>4 horas,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Alto
+2433,Xenos,653087327,17,M,9/10/2025,1,true,false,true,>4 horas,Diario,false,Primer hijo <30,No hijos,Alto
+2188,Melisa,886576184,71,F,9/10/2025,1,false,true,true,>4 horas,Ocasional,true,No hijos,Primer hijo >=30,Alto
+2335,Farris,770561892,57,M,9/10/2025,1,false,false,true,Ninguna,Nunca,false,,Primer hijo <30,Moderado
+2866,Jehu,385955206,39,M,9/10/2025,1,true,true,false,3-4 horas,Ocasional,false,No hijos,Primer hijo >=30,Bajo
+2589,Gabie,192988163,140,M,9/10/2025,1,true,true,false,Ninguna,Frecuente,true,Primer hijo >=30,No hijos,Moderado
+2584,Rebecca,127831702,32,F,9/10/2025,1,false,true,false,>4 horas,Frecuente,true,Primer hijo <30,Primer hijo >=30,Bajo
+2123,Westley,690514800,63,M,9/10/2025,1,true,true,false,Ninguna,Nunca,false,Primer hijo <30,No hijos,Moderado
+2806,Wilma,274081863,16,F,9/10/2025,1,true,true,true,>4 horas,Ocasional,false,No hijos,Primer hijo >=30,Alto
+2516,Adrea,153953122,122,F,9/10/2025,1,false,true,true,<3 horas,Nunca,true,No hijos,Primer hijo >=30,Bajo
+2323,Merlina,931072052,,F,9/10/2025,1,false,false,false,<3 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Moderado
+2730,Irvine,964695659,58,M,9/10/2025,1,false,false,false,>4 horas,Ocasional,true,No hijos,Primer hijo >=30,Alto
+2034,Don,315401368,108,M,9/10/2025,1,false,true,true,,Diario,true,No hijos,Primer hijo >=30,Alto
+2786,Pembroke,251402447,16,M,9/10/2025,1,false,false,true,>4 horas,Diario,true,No hijos,Primer hijo <30,Moderado
+2718,Bernelle,199643447,11,F,9/10/2025,1,false,false,false,>4 horas,Frecuente,true,Primer hijo >=30,No hijos,Moderado
+2711,Shea,296095360,53,M,9/10/2025,1,false,false,false,>4 horas,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2253,Alister,359576358,43,M,9/10/2025,1,true,false,false,Ninguna,Ocasional,true,Primer hijo >=30,Primer hijo <30,Alto
+2551,Jacquelin,970080226,64,F,9/10/2025,1,false,false,true,3-4 horas,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2267,Yvor,819139802,101,M,9/10/2025,1,false,true,false,Ninguna,Ocasional,true,No hijos,No hijos,Bajo
+2977,Katuscha,150910700,28,F,9/10/2025,1,true,true,true,>4 horas,Ocasional,false,Primer hijo <30,Primer hijo <30,Alto
+2955,Barthel,251461989,2,M,9/10/2025,1,false,false,false,<3 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Moderado
+2710,Patrick,950491158,47,M,9/10/2025,1,true,true,true,3-4 horas,Diario,true,Primer hijo <30,Primer hijo <30,Bajo
+2066,Anastasia,355803735,139,F,9/10/2025,1,false,false,false,Ninguna,Frecuente,true,Primer hijo <30,Primer hijo >=30,Bajo
+2164,Karlens,373247400,9,M,9/10/2025,1,true,true,false,<3 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2903,Hersch,429914508,86,M,9/10/2025,1,false,false,true,<3 horas,Ocasional,true,No hijos,No hijos,Bajo
+2534,Fairleigh,374161446,12,M,9/10/2025,1,false,true,true,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Bajo
+2411,Adriane,574904150,2,F,9/10/2025,1,false,false,true,3-4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Alto
+2695,Ki,638489730,,F,9/10/2025,1,false,true,false,Ninguna,Diario,false,Primer hijo <30,Primer hijo <30,Moderado
+2151,Luigi,734278077,41,M,9/10/2025,1,true,true,true,3-4 horas,Ocasional,false,No hijos,Primer hijo <30,Moderado
+2577,Marc,721837908,129,M,9/10/2025,1,true,true,true,Ninguna,Nunca,false,No hijos,Primer hijo >=30,Alto
+2934,Florence,912426281,83,F,9/10/2025,1,true,true,true,3-4 horas,Diario,true,No hijos,No hijos,Bajo
+2851,Humberto,782195980,82,M,9/10/2025,1,false,false,false,,Frecuente,false,No hijos,Primer hijo <30,Alto
+2430,Bret,417862105,111,M,9/10/2025,1,true,false,true,>4 horas,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2816,Wang,713486184,100,M,9/10/2025,1,false,false,false,Ninguna,Nunca,false,No hijos,Primer hijo >=30,Bajo
+2189,Maegan,276773727,105,F,9/10/2025,1,false,true,true,<3 horas,Nunca,false,Primer hijo >=30,No hijos,Bajo
+2497,Smith,106616009,87,M,9/10/2025,1,true,true,true,<3 horas,Diario,false,Primer hijo <30,No hijos,Bajo
+2090,Hammad,574163704,67,M,9/10/2025,1,false,true,true,<3 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2888,Iggie,922465364,,M,9/10/2025,1,true,true,false,3-4 horas,Ocasional,true,,Primer hijo >=30,Alto
+2692,Hermina,392850957,148,F,9/10/2025,1,true,false,false,3-4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Bajo
+2376,Elston,239189117,142,M,9/10/2025,1,true,true,false,Ninguna,Frecuente,true,No hijos,No hijos,Alto
+2327,Olimpia,371314300,14,F,9/10/2025,1,false,true,true,3-4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Moderado
+2362,Shelba,596759159,45,F,9/10/2025,1,true,true,true,<3 horas,Frecuente,false,No hijos,No hijos,Moderado
+2881,Trudey,892368743,134,F,9/10/2025,1,true,true,true,>4 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Bajo
+2133,Jaymee,562807858,104,F,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,No hijos,Primer hijo >=30,Bajo
+2651,Osmond,480688926,21,M,9/10/2025,1,false,false,true,Ninguna,Nunca,true,No hijos,Primer hijo >=30,Moderado
+2878,Jilli,625050744,132,F,9/10/2025,1,true,false,false,>4 horas,Frecuente,true,Primer hijo <30,No hijos,Bajo
+2271,Samuel,866770593,113,M,9/10/2025,1,true,false,true,>4 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Bajo
+2868,Rogerio,316898743,62,M,9/10/2025,1,true,true,true,,Frecuente,true,No hijos,Primer hijo <30,Alto
+2120,Leroi,979339263,26,M,9/10/2025,1,false,false,true,3-4 horas,Ocasional,true,No hijos,Primer hijo >=30,Alto
+2734,Midge,921996414,108,F,9/10/2025,1,true,false,false,Ninguna,Ocasional,true,Primer hijo >=30,Primer hijo <30,Bajo
+2737,Mariellen,608651183,104,F,9/10/2025,1,true,true,false,3-4 horas,Diario,true,No hijos,Primer hijo >=30,Moderado
+2519,Ty,121323938,98,M,9/10/2025,1,false,true,true,>4 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Alto
+2661,Marion,142233472,74,M,9/10/2025,1,true,true,true,<3 horas,Diario,true,Primer hijo <30,Primer hijo <30,Bajo
+2217,Tommy,618024675,116,F,9/10/2025,1,false,true,true,Ninguna,Nunca,false,No hijos,No hijos,Alto
+2223,La verne,537019923,111,F,9/10/2025,1,false,false,true,<3 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Alto
+2181,Brannon,416397345,11,M,9/10/2025,1,false,true,true,<3 horas,Frecuente,false,Primer hijo <30,No hijos,Bajo
+2157,Dara,604137256,44,F,9/10/2025,1,false,true,false,>4 horas,Diario,true,Primer hijo <30,Primer hijo <30,Alto
+2904,Che,494583728,110,M,9/10/2025,1,true,false,true,<3 horas,Ocasional,false,,No hijos,Bajo
+3000,Doralin,165986791,124,F,9/10/2025,1,true,false,false,Ninguna,Nunca,false,No hijos,Primer hijo >=30,Bajo
+2064,Leora,642383156,65,F,9/10/2025,1,false,false,false,Ninguna,Nunca,false,Primer hijo <30,Primer hijo >=30,Moderado
+2060,Roxy,963937687,2,F,9/10/2025,1,false,true,false,Ninguna,Nunca,false,Primer hijo <30,No hijos,Moderado
+2056,Carmon,986902443,59,F,9/10/2025,1,false,false,false,Ninguna,Frecuente,false,No hijos,No hijos,Alto
+2338,Ingar,399682392,72,M,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2696,Hillard,732089497,34,M,9/10/2025,1,false,false,true,<3 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Alto
+2259,Baudoin,957359697,23,M,9/10/2025,1,false,false,true,3-4 horas,Diario,true,,No hijos,Alto
+2395,Doria,133597204,75,F,9/10/2025,1,true,false,false,3-4 horas,Ocasional,true,Primer hijo <30,Primer hijo >=30,Bajo
+2893,Ethelind,694006454,135,F,9/10/2025,1,false,true,false,>4 horas,Nunca,true,No hijos,No hijos,Moderado
+2544,Jimmy,436955250,121,M,9/10/2025,1,false,true,false,3-4 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2206,Rowney,206462499,,M,9/10/2025,1,true,false,false,3-4 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Alto
+2066,Kevan,370561176,119,M,9/10/2025,1,false,true,true,3-4 horas,Ocasional,false,Primer hijo >=30,No hijos,Moderado
+2703,Raimondo,159290812,116,M,9/10/2025,1,true,false,true,3-4 horas,Diario,true,,Primer hijo <30,Moderado
+2511,Abbot,487060969,141,M,9/10/2025,1,false,true,true,3-4 horas,Nunca,true,Primer hijo <30,No hijos,Alto
+2972,Angelle,997650037,38,F,9/10/2025,1,true,false,false,Ninguna,Ocasional,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2665,Bary,168184151,129,M,9/10/2025,1,true,false,false,Ninguna,Nunca,true,No hijos,Primer hijo <30,Alto
+2086,Darren,129028805,74,M,9/10/2025,1,true,false,true,<3 horas,Diario,false,No hijos,Primer hijo <30,Bajo
+2810,Wolf,758289063,141,M,9/10/2025,1,true,false,true,<3 horas,Ocasional,false,No hijos,Primer hijo <30,Bajo
+2183,Derick,482939220,138,M,9/10/2025,1,true,false,false,3-4 horas,Ocasional,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2232,Evelyn,481770577,112,M,9/10/2025,1,true,false,false,<3 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Moderado
+2857,Sammy,817441866,148,F,9/10/2025,1,false,false,true,Ninguna,Nunca,false,Primer hijo <30,No hijos,Alto
+2580,Arleta,422509778,95,F,9/10/2025,1,true,false,false,<3 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2671,Ad,857812244,39,M,9/10/2025,1,true,false,false,<3 horas,Nunca,true,Primer hijo >=30,No hijos,Bajo
+2497,Franklin,962471429,,M,9/10/2025,1,false,false,false,Ninguna,Ocasional,false,No hijos,Primer hijo >=30,Bajo
+2665,Viki,743175066,113,F,9/10/2025,1,true,true,true,>4 horas,Nunca,true,Primer hijo >=30,Primer hijo <30,Alto
+2492,Deana,536906075,102,F,9/10/2025,1,false,true,true,3-4 horas,Diario,false,No hijos,Primer hijo >=30,Alto
+2197,Eddy,939204365,134,F,9/10/2025,1,true,true,false,Ninguna,Diario,true,No hijos,Primer hijo >=30,Moderado
+2857,Averell,212822748,143,M,9/10/2025,1,false,true,true,Ninguna,Nunca,false,,Primer hijo <30,Bajo
+2347,Felicio,733638900,99,M,9/10/2025,1,false,false,false,Ninguna,Diario,true,No hijos,No hijos,Bajo
+2453,Elisabetta,606838800,25,F,9/10/2025,1,true,true,false,Ninguna,Nunca,false,No hijos,No hijos,Moderado
+2449,Agata,806466089,20,F,9/10/2025,1,false,true,false,>4 horas,Ocasional,true,Primer hijo <30,No hijos,Alto
+2258,Colene,829359751,41,F,9/10/2025,1,true,true,false,<3 horas,Frecuente,false,,Primer hijo >=30,Bajo
+2379,Kris,979227283,8,F,9/10/2025,1,true,true,false,<3 horas,Nunca,false,Primer hijo >=30,No hijos,Alto
+2281,Ailsun,951821014,112,F,9/10/2025,1,false,true,false,Ninguna,Frecuente,false,No hijos,Primer hijo <30,Alto
+2268,Nady,762324802,99,F,9/10/2025,1,true,false,true,>4 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Moderado
+2508,Lanae,674136875,88,F,9/10/2025,1,false,false,true,Ninguna,Ocasional,true,Primer hijo >=30,Primer hijo <30,Bajo
+2854,Roderich,971245910,79,M,9/10/2025,1,true,true,true,>4 horas,Diario,false,No hijos,No hijos,Moderado
+2234,Bonita,364142005,135,F,9/10/2025,1,false,true,true,3-4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Moderado
+2520,Kellia,831224833,101,F,9/10/2025,1,false,true,true,3-4 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Moderado
+2955,Raimundo,830911678,111,M,9/10/2025,1,true,true,false,Ninguna,Frecuente,true,Primer hijo <30,Primer hijo >=30,Moderado
+2590,Jacob,126828456,40,M,9/10/2025,1,true,true,true,Ninguna,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2758,Eugenius,908942407,7,M,9/10/2025,1,false,false,true,>4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2720,Rana,108665130,69,F,9/10/2025,1,true,false,false,3-4 horas,Ocasional,true,Primer hijo <30,Primer hijo >=30,Bajo
+2759,Binky,860878429,102,M,9/10/2025,1,false,true,false,Ninguna,Ocasional,false,Primer hijo <30,No hijos,Moderado
+2712,Ralina,394636156,61,F,9/10/2025,1,true,true,true,Ninguna,Diario,false,Primer hijo <30,Primer hijo >=30,Moderado
+2553,Lexine,640307044,,F,9/10/2025,1,true,true,false,>4 horas,Diario,true,,Primer hijo >=30,Bajo
+2921,Bertrand,119474978,96,M,9/10/2025,1,true,false,true,>4 horas,Frecuente,false,No hijos,No hijos,Bajo
+2568,Kimberlee,688720495,23,F,9/10/2025,1,true,true,false,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Alto
+2299,Cesare,279039077,53,M,9/10/2025,1,true,false,false,>4 horas,Nunca,true,Primer hijo <30,Primer hijo <30,Bajo
+2135,Raquel,976403346,6,F,9/10/2025,1,true,true,true,Ninguna,Nunca,true,Primer hijo <30,Primer hijo <30,Bajo
+2022,Anny,337448116,106,F,9/10/2025,1,false,true,false,Ninguna,Nunca,true,No hijos,Primer hijo <30,Alto
+2117,Ferd,761502052,131,M,9/10/2025,1,false,true,true,>4 horas,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2887,Harriot,712248931,29,F,9/10/2025,1,true,false,false,3-4 horas,Diario,true,Primer hijo >=30,No hijos,Bajo
+2635,Newton,914280062,103,M,9/10/2025,1,true,false,false,Ninguna,Nunca,true,Primer hijo >=30,Primer hijo <30,Bajo
+2339,Walker,182149225,93,M,9/10/2025,1,false,true,false,Ninguna,Ocasional,true,No hijos,Primer hijo <30,Moderado
+2715,Myer,725789844,52,M,9/10/2025,1,true,true,true,3-4 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Moderado
+2962,Annissa,157538958,63,F,9/10/2025,1,false,false,true,,Ocasional,false,Primer hijo <30,No hijos,Moderado
+2402,Lane,455954678,77,M,9/10/2025,1,false,false,true,<3 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2301,Darby,778768677,73,M,9/10/2025,1,false,false,true,<3 horas,Nunca,false,Primer hijo <30,No hijos,Alto
+2469,Camella,367598997,107,F,9/10/2025,1,true,true,false,<3 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Bajo
+2929,Anet,615279671,4,F,9/10/2025,1,false,false,true,,Frecuente,false,Primer hijo <30,Primer hijo <30,Alto
+2908,Esmaria,643077811,71,F,9/10/2025,1,true,false,true,<3 horas,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2227,Linnea,552316630,29,F,9/10/2025,1,false,true,false,<3 horas,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2744,Clemens,653020287,70,M,9/10/2025,1,true,false,true,<3 horas,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2860,Kayle,865343413,55,F,9/10/2025,1,true,false,true,3-4 horas,Frecuente,true,Primer hijo <30,Primer hijo >=30,Moderado
+2757,Kimmi,878609968,24,F,9/10/2025,1,false,false,false,<3 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Moderado
+2768,Kevan,808217189,150,M,9/10/2025,1,false,false,true,<3 horas,Diario,true,No hijos,Primer hijo >=30,Bajo
+2611,Rogers,557353040,115,M,9/10/2025,1,false,true,false,>4 horas,Nunca,true,Primer hijo >=30,Primer hijo <30,Alto
+2280,Cindie,102675353,115,F,9/10/2025,1,true,true,false,>4 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Moderado
+2365,Alyssa,819844388,90,F,9/10/2025,1,false,false,true,<3 horas,Frecuente,true,,No hijos,Moderado
+2801,Lettie,760142669,123,F,9/10/2025,1,false,true,false,>4 horas,Diario,true,Primer hijo <30,No hijos,Bajo
+2180,Zitella,385822791,45,F,9/10/2025,1,true,false,false,3-4 horas,Nunca,false,Primer hijo >=30,Primer hijo <30,Alto
+2765,Dalt,422934880,75,M,9/10/2025,1,false,false,true,>4 horas,Nunca,true,Primer hijo <30,Primer hijo >=30,Bajo
+2969,Riccardo,827652105,48,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,false,No hijos,No hijos,Moderado
+2569,Kaile,234286274,104,F,9/10/2025,1,false,false,false,Ninguna,Diario,true,Primer hijo >=30,No hijos,Bajo
+2703,Yolanthe,901584730,22,F,9/10/2025,1,false,false,false,,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2987,Rycca,296449513,136,F,9/10/2025,1,false,false,true,Ninguna,Diario,false,Primer hijo >=30,No hijos,Bajo
+2598,Willis,711378444,72,M,9/10/2025,1,true,true,true,Ninguna,Diario,false,Primer hijo <30,No hijos,Bajo
+2678,Iggy,114108108,22,M,9/10/2025,1,false,false,false,3-4 horas,Ocasional,true,No hijos,Primer hijo >=30,Alto
+2831,Frazier,837892305,8,M,9/10/2025,1,true,true,true,3-4 horas,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2840,Emogene,874548026,26,F,9/10/2025,1,true,false,true,3-4 horas,Ocasional,true,Primer hijo <30,No hijos,Moderado
+2113,Ulises,617572547,33,M,9/10/2025,1,,true,false,3-4 horas,Ocasional,true,No hijos,Primer hijo >=30,Moderado
+2241,Tilly,960904296,47,F,9/10/2025,1,false,false,true,3-4 horas,Frecuente,true,,Primer hijo <30,Bajo
+2765,Lucille,428409993,132,F,9/10/2025,1,true,false,false,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo <30,Bajo
+2797,Avery,709549819,60,M,9/10/2025,1,false,true,true,3-4 horas,Ocasional,true,Primer hijo <30,Primer hijo >=30,Moderado
+2234,Domeniga,318531490,71,F,9/10/2025,1,true,true,true,Ninguna,Frecuente,true,Primer hijo >=30,No hijos,Moderado
+2519,Heall,950659077,34,M,9/10/2025,1,false,true,false,Ninguna,Nunca,true,Primer hijo <30,Primer hijo <30,Bajo
+2541,Caspar,677585953,149,M,9/10/2025,1,false,false,false,>4 horas,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2901,Vivie,137930856,74,F,9/10/2025,1,true,true,false,3-4 horas,Nunca,true,No hijos,Primer hijo <30,Alto
+2635,Ansell,106713312,27,M,9/10/2025,1,false,true,true,>4 horas,Diario,false,No hijos,No hijos,Alto
+2254,Dorice,296938633,8,F,9/10/2025,1,false,true,false,Ninguna,Diario,false,Primer hijo >=30,No hijos,Alto
+2613,Celestyna,464086677,3,F,9/10/2025,1,false,false,false,>4 horas,Nunca,true,Primer hijo <30,Primer hijo >=30,Moderado
+2029,Hildy,415997967,94,F,9/10/2025,1,true,false,false,3-4 horas,Ocasional,true,,Primer hijo <30,Bajo
+2316,Marco,676626185,12,M,9/10/2025,1,false,false,false,<3 horas,Diario,false,No hijos,No hijos,Moderado
+2673,Petrina,863524627,50,F,9/10/2025,1,true,false,false,3-4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Bajo
+2951,Lesly,447163580,29,F,9/10/2025,1,false,false,true,<3 horas,Diario,false,Primer hijo <30,No hijos,Alto
+2252,Pernell,180203722,82,M,9/10/2025,1,false,false,true,>4 horas,Nunca,false,No hijos,Primer hijo <30,Bajo
+2204,Arabella,809057830,35,F,9/10/2025,1,true,true,true,>4 horas,Frecuente,true,No hijos,No hijos,Moderado
+2670,Munroe,571371737,127,M,9/10/2025,1,true,true,true,<3 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Bajo
+2407,Demetre,142594101,52,M,9/10/2025,1,false,true,false,Ninguna,Frecuente,false,Primer hijo >=30,No hijos,Moderado
+2619,Darda,611452923,72,F,9/10/2025,1,false,false,true,>4 horas,Frecuente,true,Primer hijo >=30,No hijos,Bajo
+2846,Samara,565758897,121,F,9/10/2025,1,false,true,true,3-4 horas,Frecuente,false,Primer hijo <30,No hijos,Alto
+2954,Lurette,649555762,10,F,9/10/2025,1,,true,true,Ninguna,Ocasional,false,,No hijos,Bajo
+2523,Justen,447370543,118,M,9/10/2025,1,false,true,false,Ninguna,Frecuente,true,,Primer hijo <30,Alto
+2666,Becki,948436481,76,F,9/10/2025,1,false,true,true,>4 horas,Ocasional,true,No hijos,Primer hijo <30,Alto
+2080,Velma,104045604,19,F,9/10/2025,1,true,false,false,3-4 horas,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2760,Marylynne,797155428,128,F,9/10/2025,1,false,false,false,>4 horas,Ocasional,false,Primer hijo <30,Primer hijo <30,Bajo
+2706,Krishnah,617119450,20,M,9/10/2025,1,true,false,true,Ninguna,Nunca,true,Primer hijo <30,No hijos,Alto
+2286,Happy,423082508,79,F,9/10/2025,1,true,true,true,>4 horas,Diario,false,Primer hijo <30,Primer hijo <30,Moderado
+2277,Isabeau,322760590,6,F,9/10/2025,1,true,true,true,,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2675,Susannah,124040685,136,F,9/10/2025,1,true,true,false,<3 horas,Ocasional,true,Primer hijo >=30,No hijos,Bajo
+2618,Enrika,218832160,15,F,9/10/2025,1,false,true,false,,Diario,false,Primer hijo >=30,Primer hijo <30,Moderado
+2276,Diahann,221997787,55,F,9/10/2025,1,,true,false,3-4 horas,Ocasional,false,No hijos,Primer hijo <30,Alto
+2572,Thorstein,436196481,14,M,9/10/2025,1,true,false,false,3-4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Moderado
+2228,Renault,860217681,87,M,9/10/2025,1,true,true,false,>4 horas,Nunca,true,No hijos,Primer hijo <30,Moderado
+2729,Anthony,768732215,76,M,9/10/2025,1,false,false,false,3-4 horas,Frecuente,true,No hijos,Primer hijo <30,Alto
+2577,Dottie,800955192,120,F,9/10/2025,1,true,false,false,,Frecuente,false,,Primer hijo <30,Alto
+2932,Chip,444290625,136,M,9/10/2025,1,true,true,true,3-4 horas,Diario,false,No hijos,Primer hijo >=30,Moderado
+3000,Larisa,122204237,106,F,9/10/2025,1,false,false,false,>4 horas,Nunca,true,Primer hijo <30,Primer hijo >=30,Moderado
+2781,Elly,979869054,30,F,9/10/2025,1,true,true,false,3-4 horas,Frecuente,false,No hijos,Primer hijo <30,Alto
+2421,Dre,906499780,71,F,9/10/2025,1,false,true,true,>4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Alto
+2692,Sam,705001217,112,F,9/10/2025,1,false,false,true,3-4 horas,Diario,true,No hijos,Primer hijo <30,Bajo
+2558,Monty,799338817,45,M,9/10/2025,1,true,false,false,>4 horas,Frecuente,true,Primer hijo <30,Primer hijo >=30,Bajo
+2836,Sunny,573091643,10,F,9/10/2025,1,false,true,false,Ninguna,Ocasional,false,,Primer hijo >=30,Bajo
+2839,Gene,345897800,,F,9/10/2025,1,true,false,false,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo <30,Alto
+2094,Johnnie,624412347,82,M,9/10/2025,1,true,true,false,3-4 horas,Diario,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2519,Elie,362140195,107,F,9/10/2025,1,false,true,true,>4 horas,Diario,true,Primer hijo >=30,No hijos,Alto
+2529,Giffy,502845698,136,M,9/10/2025,1,false,false,false,>4 horas,Frecuente,false,No hijos,Primer hijo <30,Alto
+2475,Moses,666132096,34,M,9/10/2025,1,true,true,true,3-4 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2648,Gustaf,693207709,13,M,9/10/2025,1,false,true,true,3-4 horas,Ocasional,false,Primer hijo <30,Primer hijo <30,Bajo
+2600,Martelle,558165002,39,F,9/10/2025,1,true,true,true,>4 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2303,Nedi,954585989,138,F,9/10/2025,1,true,true,false,3-4 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Bajo
+2452,Hagan,640337645,11,M,9/10/2025,1,false,false,true,3-4 horas,Diario,true,Primer hijo >=30,Primer hijo <30,Bajo
+2820,Mel,678159048,80,M,9/10/2025,1,true,false,true,<3 horas,Ocasional,false,Primer hijo <30,Primer hijo >=30,Bajo
+2030,Any,362569356,44,M,9/10/2025,1,true,false,true,Ninguna,Frecuente,true,Primer hijo >=30,Primer hijo <30,Alto
+2447,Kati,413014788,8,F,9/10/2025,1,false,true,true,<3 horas,Frecuente,true,Primer hijo >=30,Primer hijo <30,Bajo
+2597,Yank,591559888,114,M,9/10/2025,1,true,true,true,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo <30,Bajo
+2716,Devan,339208192,32,F,9/10/2025,1,true,false,true,<3 horas,Nunca,false,Primer hijo >=30,No hijos,Bajo
+2408,Randolf,494242070,,M,9/10/2025,1,,true,false,>4 horas,Frecuente,false,Primer hijo <30,No hijos,Alto
+2903,Dennie,288625902,82,M,9/10/2025,1,true,true,false,>4 horas,Diario,false,No hijos,Primer hijo <30,Alto
+2332,Emlynn,533797609,,F,9/10/2025,1,false,false,false,3-4 horas,Frecuente,true,Primer hijo <30,Primer hijo <30,Bajo
+2672,Nikolaus,388225060,97,M,9/10/2025,1,false,true,false,Ninguna,Nunca,true,No hijos,Primer hijo <30,Alto
+2201,Lindon,381481896,146,M,9/10/2025,1,false,false,true,<3 horas,Nunca,true,No hijos,Primer hijo <30,Bajo
+2358,Eamon,156580933,109,M,9/10/2025,1,false,true,true,3-4 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2992,Emmi,376817498,4,F,9/10/2025,1,true,true,true,>4 horas,Ocasional,false,Primer hijo <30,Primer hijo >=30,Bajo
+2483,Mort,758684724,65,M,9/10/2025,1,true,true,false,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo >=30,Moderado
+2407,Lizzie,553785058,72,F,9/10/2025,1,true,false,false,>4 horas,Nunca,false,No hijos,Primer hijo >=30,Moderado
+2124,Marie-ann,234556932,86,F,9/10/2025,1,false,true,true,>4 horas,Nunca,false,No hijos,Primer hijo <30,Alto
+2181,Harvey,734914222,98,M,9/10/2025,1,false,false,true,<3 horas,Nunca,false,Primer hijo <30,Primer hijo <30,Bajo
+2227,Lynn,889374196,52,F,9/10/2025,1,true,false,true,3-4 horas,Diario,true,No hijos,No hijos,Alto
+2293,Hakim,768952474,6,M,9/10/2025,1,true,false,false,<3 horas,Frecuente,false,Primer hijo <30,No hijos,Moderado
+2771,Sargent,208770269,146,M,9/10/2025,1,true,true,false,3-4 horas,Ocasional,false,No hijos,No hijos,Moderado
+2024,Burnard,109780389,14,M,9/10/2025,1,,false,true,>4 horas,Frecuente,false,No hijos,Primer hijo <30,Alto
+2667,Star,398325781,95,F,9/10/2025,1,true,true,false,>4 horas,Ocasional,true,Primer hijo <30,No hijos,Alto
+2752,Burch,865987759,103,M,9/10/2025,1,false,true,true,<3 horas,Nunca,true,No hijos,No hijos,Bajo
+2351,Cameron,888649151,40,M,9/10/2025,1,true,false,false,,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2033,Cathee,754810744,78,F,9/10/2025,1,false,true,false,>4 horas,Ocasional,false,Primer hijo >=30,No hijos,Bajo
+2130,Corabel,151435118,47,F,9/10/2025,1,true,false,false,Ninguna,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2810,Templeton,560600043,40,M,9/10/2025,1,false,true,true,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2736,Melony,770123712,127,F,9/10/2025,1,false,false,true,>4 horas,Nunca,true,Primer hijo <30,No hijos,Bajo
+2869,Gannie,205381865,136,M,9/10/2025,1,false,false,true,>4 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Alto
+2058,Minnie,152690408,40,F,9/10/2025,1,false,true,true,Ninguna,Frecuente,true,No hijos,Primer hijo <30,Moderado
+2174,Oralla,275539482,116,F,9/10/2025,1,false,false,true,<3 horas,Frecuente,false,Primer hijo >=30,No hijos,Alto
+2633,Griselda,597987150,59,F,9/10/2025,1,,false,true,Ninguna,Ocasional,true,Primer hijo >=30,Primer hijo >=30,Alto
+2067,Britta,702511092,54,F,9/10/2025,1,false,true,true,>4 horas,Diario,false,Primer hijo <30,No hijos,Moderado
+2811,Lavena,348983744,93,F,9/10/2025,1,true,false,false,<3 horas,Ocasional,false,Primer hijo <30,Primer hijo >=30,Moderado
+2874,Deeann,557253255,,F,9/10/2025,1,true,true,true,,Diario,false,Primer hijo <30,Primer hijo <30,Moderado
+2062,Webb,261475206,143,M,9/10/2025,1,true,true,false,3-4 horas,Ocasional,true,Primer hijo >=30,Primer hijo <30,Alto
+2900,Malcolm,555273868,58,M,9/10/2025,1,true,false,false,>4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Bajo
+2470,Lucais,555094440,27,M,9/10/2025,1,false,false,false,>4 horas,Ocasional,true,Primer hijo <30,No hijos,Alto
+2814,Rebe,835415316,48,F,9/10/2025,1,true,false,false,Ninguna,Nunca,true,No hijos,Primer hijo >=30,Bajo
+2339,Timotheus,881074303,4,M,9/10/2025,1,true,false,true,>4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Moderado
+2400,Geneva,307674709,10,F,9/10/2025,1,true,true,false,Ninguna,Frecuente,false,Primer hijo >=30,Primer hijo >=30,Alto
+2720,Ebonee,471666634,139,F,9/10/2025,1,true,true,false,Ninguna,Frecuente,false,Primer hijo <30,No hijos,Moderado
+2758,Johann,144118166,141,M,9/10/2025,1,false,true,true,>4 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Bajo
+2207,Torey,784429859,108,M,9/10/2025,1,false,false,false,,Nunca,true,Primer hijo >=30,Primer hijo <30,Moderado
+2403,Dorise,495278218,71,F,9/10/2025,1,true,false,false,3-4 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Bajo
+2652,Julienne,819206521,76,F,9/10/2025,1,false,false,false,<3 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Bajo
+2974,Brig,558298226,62,M,9/10/2025,1,true,true,false,>4 horas,Nunca,false,Primer hijo >=30,Primer hijo >=30,Alto
+2556,Melly,399457517,50,F,9/10/2025,1,false,true,false,3-4 horas,Frecuente,false,No hijos,Primer hijo >=30,Bajo
+2316,Rudolph,326721963,,M,9/10/2025,1,false,true,true,Ninguna,Diario,true,No hijos,Primer hijo <30,Bajo
+2404,Rebe,630010995,119,F,9/10/2025,1,false,true,false,3-4 horas,Ocasional,true,Primer hijo <30,Primer hijo <30,Moderado
+2358,Janie,962562350,129,F,9/10/2025,1,,false,false,<3 horas,Diario,true,No hijos,Primer hijo >=30,Moderado
+2038,Mavra,470054869,149,F,9/10/2025,1,false,true,true,>4 horas,Frecuente,false,Primer hijo <30,No hijos,Bajo
+2825,Lethia,625422264,61,F,9/10/2025,1,false,false,false,>4 horas,Diario,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2272,Frances,322295829,36,F,9/10/2025,1,true,false,true,,Frecuente,false,Primer hijo <30,Primer hijo <30,Alto
+2138,Meghan,146743880,3,F,9/10/2025,1,true,true,true,3-4 horas,Frecuente,false,Primer hijo >=30,Primer hijo <30,Bajo
+2047,Arin,885828063,82,M,9/10/2025,1,false,false,false,>4 horas,Frecuente,true,Primer hijo >=30,Primer hijo >=30,Bajo
+2553,Tamara,438298543,60,F,9/10/2025,1,true,true,false,Ninguna,Nunca,false,No hijos,No hijos,Moderado
+2097,Lula,796718665,55,F,9/10/2025,1,true,true,true,3-4 horas,Diario,true,Primer hijo <30,Primer hijo >=30,Moderado
+2438,Stevie,300002998,56,M,9/10/2025,1,true,false,true,>4 horas,Ocasional,true,No hijos,No hijos,Alto
+2539,Sal,667852027,145,F,9/10/2025,1,false,false,true,<3 horas,Diario,true,No hijos,No hijos,Moderado
+2518,Barbra,468702467,138,F,9/10/2025,1,true,true,true,Ninguna,Diario,false,No hijos,No hijos,Moderado
+2372,Mehetabel,779138036,104,F,9/10/2025,1,false,true,true,,Nunca,true,Primer hijo <30,Primer hijo <30,Bajo
+2966,Sande,609233168,103,F,9/10/2025,1,false,false,true,3-4 horas,Ocasional,true,,Primer hijo <30,Alto
+2040,Kalinda,977998698,111,F,9/10/2025,1,false,false,true,,Ocasional,false,No hijos,No hijos,Moderado
+2671,Avictor,212154949,132,M,9/10/2025,1,true,true,false,>4 horas,Diario,false,No hijos,Primer hijo <30,Alto
+2389,Pansy,827968858,49,F,9/10/2025,1,true,true,true,3-4 horas,Nunca,false,No hijos,Primer hijo >=30,Bajo
+2364,Rachele,547236997,53,F,9/10/2025,1,false,true,true,>4 horas,Diario,false,No hijos,Primer hijo <30,Moderado
+2797,Steffi,534584382,51,F,9/10/2025,1,true,false,false,<3 horas,Nunca,true,Primer hijo >=30,Primer hijo >=30,Alto
+2107,Dionne,787086075,69,F,9/10/2025,1,true,true,false,Ninguna,Nunca,false,Primer hijo >=30,Primer hijo <30,Alto
+2295,Vittoria,858030976,43,F,9/10/2025,1,true,false,false,3-4 horas,Nunca,true,No hijos,Primer hijo <30,Alto
+2298,Launce,241066048,94,M,9/10/2025,1,true,false,false,<3 horas,Diario,true,No hijos,Primer hijo >=30,Alto
+2124,Arron,581251961,36,M,9/10/2025,1,true,true,false,>4 horas,Diario,false,Primer hijo <30,No hijos,Alto
+2406,Harriott,575174602,31,F,9/10/2025,1,true,false,false,Ninguna,Frecuente,false,Primer hijo <30,Primer hijo <30,Moderado
+2326,Marietta,290155299,31,M,9/10/2025,1,false,true,true,>4 horas,Frecuente,true,Primer hijo <30,No hijos,Alto
+2917,Janelle,846255708,75,F,9/10/2025,1,false,false,false,3-4 horas,Frecuente,false,Primer hijo <30,No hijos,Bajo
+2168,Dell,413393902,75,F,9/10/2025,1,true,false,true,,Ocasional,true,Primer hijo >=30,Primer hijo >=30,Moderado
+2882,Salvidor,390249791,104,M,9/10/2025,1,true,false,false,,Frecuente,false,Primer hijo <30,Primer hijo <30,Bajo
+2666,Tammy,241370463,75,M,9/10/2025,1,false,true,false,3-4 horas,Diario,false,Primer hijo >=30,Primer hijo <30,Moderado
+2977,Caroline,528640035,72,F,9/10/2025,1,true,true,true,Ninguna,Nunca,true,Primer hijo <30,No hijos,Moderado
+2255,Bebe,771479446,36,F,9/10/2025,1,true,true,true,3-4 horas,Diario,false,Primer hijo <30,Primer hijo >=30,Alto
+2318,Jere,330840209,62,F,9/10/2025,1,true,false,true,3-4 horas,Frecuente,false,Primer hijo <30,Primer hijo >=30,Bajo
+2300,Joletta,947710305,37,F,9/10/2025,1,true,true,true,Ninguna,Ocasional,false,No hijos,No hijos,Alto
+2185,Thorpe,920388566,66,M,9/10/2025,1,true,true,true,Ninguna,Diario,false,,Primer hijo <30,Alto
+2631,Corrianne,464660014,97,F,9/10/2025,1,true,false,true,>4 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Alto
+2353,Kari,101849827,118,F,9/10/2025,1,false,true,true,Ninguna,Nunca,true,Primer hijo <30,Primer hijo >=30,Moderado
+2747,Winna,113275505,110,F,9/10/2025,1,true,false,false,Ninguna,Ocasional,false,No hijos,Primer hijo >=30,Moderado
+2086,Care,254322960,32,M,9/10/2025,1,false,true,true,Ninguna,Ocasional,false,Primer hijo <30,Primer hijo >=30,Moderado
+2827,Toddie,977899217,12,M,9/10/2025,1,true,false,true,>4 horas,Ocasional,false,,Primer hijo >=30,Bajo
+2275,Elsbeth,110905021,5,F,9/10/2025,1,false,false,false,Ninguna,Nunca,true,Primer hijo <30,Primer hijo <30,Bajo
+2017,Gertrude,936128505,29,F,9/10/2025,1,true,false,true,<3 horas,Ocasional,false,Primer hijo >=30,Primer hijo <30,Alto
+2787,Uriah,308443366,129,M,9/10/2025,1,,false,false,>4 horas,Diario,true,No hijos,Primer hijo <30,Alto
+2815,Davidson,865128253,98,M,9/10/2025,1,true,false,false,>4 horas,Nunca,true,Primer hijo <30,Primer hijo >=30,Alto
